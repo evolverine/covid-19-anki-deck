@@ -1,0 +1,473 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "f0dd73fa-6576-11ea-923b-ac72899d63fe",
+    "deck_config_uuid": "f0dd73fb-6576-11ea-923b-ac72899d63fe",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "anotherRetreat": false,
+            "autoplay": true,
+            "crowdanki_uuid": "f0dd73fb-6576-11ea-923b-ac72899d63fe",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.3
+            },
+            "maxTaken": 90,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15,
+                    2160,
+                    10080,
+                    43200
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    45,
+                    50
+                ],
+                "order": 1,
+                "perDay": 40,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.2,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 350
+            },
+            "timer": 1
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [],
+    "name": "Active::COVID-19",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.front {\n color: blue;\n}\n\n.back {\n color: green;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Source",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Context",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Front <-> Back Source Context",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0,
+                        3
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1,
+                        3
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "health"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "<span class=\"front\">{{FrontSide}}</span>\n\n<hr id=answer>\n\n<span class=\"back\">{{Back}}</span>\n\n<hr id=example>\n\nSource: {{Source}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Front-Back",
+                    "ord": 0,
+                    "qfmt": "{{#Context}}Context: {{Context}}<br/><br/>{{/Context}}\n{{Front}}"
+                },
+                {
+                    "afmt": "<span class=\"front\">{{Back}}</span>\n\n<hr id=answer>\n\n<span class=\"back\">{{Front}}</span>\n\n<hr id=example>\n\nSource: {{Source}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Back-Front",
+                    "ord": 1,
+                    "qfmt": "{{#Context}}Context: {{Context}}<br/><br/>{{/Context}}\n{{Back}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "f0dd740a-6576-11ea-923b-ac72899d63fe",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.front {\n color: blue;\n}\n\n.back {\n color: green;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Source",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Context",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Front -> Back Source Context",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0,
+                        3
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "health"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "<span class=\"front\">{{FrontSide}}</span>\n\n<hr id=answer>\n\n<span class=\"back\">{{Back}}</span>\n\n<hr id=example>\n\nSource: {{Source}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{#Context}}Context: {{Context}}<br/><br/>{{/Context}}\n{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "SARS stands for",
+                "severe acute respiratory syndrome",
+                "Coronavirus disease 2019 - Wikiwand. Retrieved March 13, 2020, from https://www.wikiwand.com/en/Coronavirus_disease_2019",
+                ""
+            ],
+            "flags": 0,
+            "guid": "t^fE27;RnS",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "biology",
+                "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Complete name of the virus causing the Coronavirus disease",
+                "SARS-CoV-2",
+                "Coronavirus disease 2019 - Wikiwand. Retrieved March 13, 2020, from https://www.wikiwand.com/en/Coronavirus_disease_2019",
+                ""
+            ],
+            "flags": 0,
+            "guid": "KT7=*39Z9F",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "biology",
+                "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The three common symptoms of COVID-19",
+                "fever, coughing, shortness of breath",
+                "Coronavirus disease 2019 - Wikiwand. Retrieved March 13, 2020, from https://www.wikiwand.com/en/Coronavirus_disease_2019",
+                ""
+            ],
+            "flags": 0,
+            "guid": "mk%EPKjhEr",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "biology",
+                "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "COVID-19 can evolve into",
+                "pneumonia and organ failures",
+                "Coronavirus disease 2019 - Wikiwand. Retrieved March 13, 2020, from https://www.wikiwand.com/en/Coronavirus_disease_2019",
+                ""
+            ],
+            "flags": 0,
+            "guid": "b.;H1v5mub",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "biology",
+                "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Incubation period of COVID-19",
+                "0-14 days",
+                "- Coronavirus disease 2019 - Wikiwand. Retrieved March 13, 2020, from https://www.wikiwand.com/en/Coronavirus_disease_2019<div><br></div><div>- DOI:  10.1056/NEJMoa2002032</div><div><br></div><div>-&nbsp;Q&amp;A on coronaviruses (COVID-19). Retrieved March 13, 2020, from https://www.who.int/news-room/q-a-detail/q-a-coronaviruses</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "HJSGsc{}ZL",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd740a-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "biology",
+                "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Median incubation period of COVID-19",
+                "5-6 days",
+                "- Coronavirus disease 2019 - Wikiwand. Retrieved March 13, 2020, from https://www.wikiwand.com/en/Coronavirus_disease_2019<div><br></div><div>-&nbsp;Q&amp;A on coronaviruses (COVID-19). Retrieved March 13, 2020, from https://www.who.int/news-room/q-a-detail/q-a-coronaviruses</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "P1T1`D/$~4",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd740a-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "biology",
+                "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Main way of spreading SARS-CoV-2",
+                "through coughs and sneezes",
+                "- Coronavirus disease 2019 - Wikiwand. Retrieved March 13, 2020, from https://www.wikiwand.com/en/Coronavirus_disease_2019",
+                ""
+            ],
+            "flags": 0,
+            "guid": "i*f-}mW]s]",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd740a-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "biology",
+                "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "When to use masks",
+                "- when coughing or sneezing<div>- when caring for someone with a suspected or confirmed infection</div>",
+                "- Coronavirus disease 2019 - Wikiwand. Retrieved March 13, 2020, from https://www.wikiwand.com/en/Coronavirus_disease_2019",
+                ""
+            ],
+            "flags": 0,
+            "guid": "jeCg*a~d,/",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd740a-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "At home, when is it recommended to use alcohol-based hand sanitiser",
+                "when washing with soap and water isn't possible",
+                "- Coronavirus disease 2019 - Wikiwand. Retrieved March 13, 2020, from https://www.wikiwand.com/en/Coronavirus_disease_2019",
+                ""
+            ],
+            "flags": 0,
+            "guid": "GJ8rGSuDPg",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd740a-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pneumonia",
+                "inflammation of the lung(s)",
+                "Pneumonia - Wikiwand. Retrieved March 13, 2020, from https://www.wikiwand.com/en/Pneumonia",
+                ""
+            ],
+            "flags": 0,
+            "guid": "zo@*0jsFKk",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Most common cause of pneumonia",
+                "infection (with viruses or bacteria)",
+                "Pneumonia - Wikiwand. Retrieved March 13, 2020, from https://www.wikiwand.com/en/Pneumonia",
+                ""
+            ],
+            "flags": 0,
+            "guid": "fh5HHAti;q",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd740a-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What does \"19\" stand for in the disease name of COVID-19?",
+                "2019, when it was discovered",
+                "Coronavirus disease 2019 - Wikiwand. Retrieved March 13, 2020, from https://www.wikiwand.com/en/Coronavirus_disease_2019#/Prevention",
+                ""
+            ],
+            "flags": 0,
+            "guid": "tfp`Nibwhs",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd740a-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How common is it for patients to have a runny nose",
+                "very uncommon (&lt;5% of cases)",
+                "Coronavirus facts: is there a cure and what is the mortality rate of the virus? | World news | The Guardian. Retrieved March 13, 2020, from https://www.theguardian.com/world/2020/mar/13/coronavirus-facts-is-there-a-cure-and-what-is-the-mortality-rate-of-the-virus",
+                ""
+            ],
+            "flags": 0,
+            "guid": "sRYnc4LAH1",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd740a-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Usual mortality rate of the flu",
+                "around 0.1%",
+                "Influenza - Wikiwand. Retrieved March 13, 2020, from https://www.wikiwand.com/en/Influenza",
+                ""
+            ],
+            "flags": 0,
+            "guid": "GIP9NG(4?s",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd740a-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "health"
+            ]
+        }
+    ]
+}
