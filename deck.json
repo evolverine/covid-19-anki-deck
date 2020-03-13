@@ -468,6 +468,23 @@
             "tags": [
                 "health"
             ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The most likely time (month and year) of the first SARS-CoV-2 infection",
+                "November 2019",
+                "La Xina troba el primer pacient del coronavirus 2019: es va infectar un mes abans que no es pensava. Retrieved March 13, 2020, from https://www.vilaweb.cat/noticies/xina-coronavirus/",
+                ""
+            ],
+            "flags": 0,
+            "guid": "srdu?z!I!x",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd740a-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "health"
+            ]
         }
     ]
 }
