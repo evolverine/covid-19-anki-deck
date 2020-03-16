@@ -487,6 +487,57 @@
             "tags": [
                 "health"
             ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How can recovered patients help those struggling with the disease?",
+                "By donating plasma (which contains antibodies)",
+                "Two Women Fell Sick From the Coronavirus. One Survived. - The New York Times. Retrieved March 14, 2020, from https://www.nytimes.com/interactive/2020/03/13/world/asia/coronavirus-death-life.html",
+                ""
+            ],
+            "flags": 0,
+            "guid": "d_^;oT2xp5",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd740a-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Maximum number of days after infection that the virus was still detected in patients",
+                "37",
+                "https://www.bloomberg.com/news/articles/2020-03-12/coronavirus-can-live-in-patients-for-five-weeks-after-contagion",
+                ""
+            ],
+            "flags": 0,
+            "guid": "T0Mm7",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd740a-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Median number of days after infection that the virus was still detected in patients",
+                "20",
+                "https://www.bloomberg.com/news/articles/2020-03-12/coronavirus-can-live-in-patients-for-five-weeks-after-contagion",
+                ""
+            ],
+            "flags": 0,
+            "guid": "cuvrQ",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd740a-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "health"
+            ]
         }
     ]
 }
