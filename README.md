@@ -3,7 +3,7 @@ An Anki deck for COVID-19 information for the general public. If you want to qui
 
 # How to use
 1. Install [Anki Desktop](https://apps.ankiweb.net/)
-2. Install [the CrowdAnki add-on](https://ankiweb.net/shared/info/1788670778).
+2. Install [the CrowdAnki add-on](https://ankiweb.net/shared/info/1788670778) and restart Anki Desktop.
 3. From Anki Desktop `select File -> CrowdAnki: Import from Github`. Enter *evolverine/covid-19-anki-deck* in the dialog that appears and click `OK`. The COVID-19 deck should appear, and you can start studying it.
 
 # How to keep up to date with changes and additions
