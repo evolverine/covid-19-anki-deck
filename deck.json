@@ -570,6 +570,24 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd740a-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "health",
+                "myths"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Can pets be infected with COVID-19?",
+                "No evidence so far",
+                "Frequently Asked Questions | CDC. Retrieved March 16, 2020, from https://www.cdc.gov/coronavirus/2019-ncov/faq.html#animals",
+                ""
+            ],
+            "flags": 0,
+            "guid": "kN?`R-!*C2",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd740a-6576-11ea-923b-ac72899d63fe",
+            "tags": [
                 "health"
             ]
         }
