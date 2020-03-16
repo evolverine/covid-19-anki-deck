@@ -1,5 +1,5 @@
 # covid-19-anki-deck
-An Anki deck for COVID-19 information for the general public
+An Anki deck for COVID-19 information for the general public. If you want to quickly check out the content in a readable way, head to [the clone I'm maintaining on quizlet](https://quizlet.com/_87ozfq?x=1qqt&i=11csyy).
 
 # How to use
 1. Install [Anki Desktop](https://apps.ankiweb.net/)
