@@ -555,6 +555,23 @@
             "tags": [
                 "health"
             ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Prevention: effectiveness of taking hot baths",
+                "ineffective",
+                "Myth busters. Retrieved March 16, 2020, from https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+                ""
+            ],
+            "flags": 0,
+            "guid": "%|X3epXCo",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd740a-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "health"
+            ]
         }
     ]
 }
