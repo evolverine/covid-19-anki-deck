@@ -2,7 +2,20 @@
 An Anki deck for COVID-19 information for the general public
 
 # How to use
-Install [Anki Desktop](https://apps.ankiweb.net/), and then the CrowdAnki add-on (https://ankiweb.net/shared/info/1788670778). Then clone this repository, and then from Anki Desktop select File -> CrowdAnki: Import from Github. Enter *evolverine/covid-19-anki-deck* in the dialog that appears and click *OK*. The COVID-19 deck should appear.
+1. Install [Anki Desktop](https://apps.ankiweb.net/)
+2. Install [the CrowdAnki add-on](https://ankiweb.net/shared/info/1788670778).
+3. From Anki Desktop `select File -> CrowdAnki: Import from Github`. Enter *evolverine/covid-19-anki-deck* in the dialog that appears and click `OK`. The COVID-19 deck should appear, and you can start studying it.
+
+# How to keep up to date with changes and additions
+Repeat step 3 above. The one limitation is that if a note is removed in this deck this won't be reflected in your personal deck. But we will try to keep this in mind and, when necessary, change the content of notes instead of deleting them.
 
 # How to contribute
-Some basic knowledge of git is necessary. First, make any change to the deck you see fit. Then, from AnkiDesktop select File -> Export. In the dialog that appears select *CrowdAnki JSON representation (*directory)* in the "Export format" drop-down, and then the COVID-19 deck in the "Include" drop-down. Leave "Include media" and "Include tags" checked. Click on *Export...* and select the directory where you cloned this repository. Then...
+There are two ways: through git or through opening an issue on github.
+
+## 1. Through `git`
+Some basic knowledge of `git` is necessary for this. (If you don't know what `git` is, best to use the second method, below.) 
+
+First, make any change to the deck you see fit. Then, from AnkiDesktop select File -> Export. In the dialog that appears select *CrowdAnki JSON representation (*directory)* in the "Export format" drop-down, and then the COVID-19 deck in the "Include" drop-down. Leave "Include media" and "Include tags" checked. Click on *Export...* and select the directory where you cloned this repository. Then...
+
+## 2. Through github issues
+Navigate to [this repository's issue list](https://github.com/evolverine/covid-19-anki-deck/issues) and click the "New issue" button. In that issue describe as clearly as possible what you would like changed or added to the deck.
