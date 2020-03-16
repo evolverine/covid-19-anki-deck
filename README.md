@@ -7,7 +7,8 @@ An Anki deck for COVID-19 information for the general public. If you want to qui
 3. From Anki Desktop `select File -> CrowdAnki: Import from Github`. Enter *evolverine/covid-19-anki-deck* in the dialog that appears and click `OK`. The COVID-19 deck should appear, and you can start studying it.
 
 # How to keep up to date with changes and additions
-Repeat step 3 above. The one limitation is that if a note is removed in this deck this won't be reflected in your personal deck. But we will try to keep this in mind and, when necessary, change the content of notes instead of deleting them.
+Repeat step 3 above, ideally on a daily basis.
+The one limitation is that if a note is removed in this deck this won't be reflected in your personal deck. But we will try to keep this in mind and, when necessary, change the content of notes instead of deleting them.
 
 # How to contribute
 There are two ways: through git or through opening an issue on github.
