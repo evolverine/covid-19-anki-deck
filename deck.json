@@ -538,6 +538,23 @@
             "tags": [
                 "health"
             ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Prevention: effectiveness of drinking liquids every 15 minutes",
+                "ineffective",
+                "(19) World Health Organization Western Pacific on Twitter: \"Q: Does drinking water alleviates a sore throat, does this also protect against 2019-nCoV infection? A: While staying hydrated by drinking water is important for overall health, it does not prevent coronavirus infection. &amp;#10145;️https://t.co/BOuqHUDjwL #COVID19 #KnowtheFacts https://t.co/Qz2rwKYyzn\" / Twitter. Retrieved March 16, 2020, from https://twitter.com/WHOWPRO/status/1232636965536747520",
+                ""
+            ],
+            "flags": 0,
+            "guid": "p|hwJJjD5r",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd740a-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "health"
+            ]
         }
     ]
 }
