@@ -538,6 +538,23 @@
             "tags": [
                 "health"
             ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "adding a note for testing, which will be removed in the next commit",
+                "...",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "APNE;wIM{v",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd740a-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "health"
+            ]
         }
     ]
 }
