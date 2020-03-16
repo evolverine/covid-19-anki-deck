@@ -1,7 +1,7 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "f0dd73fa-6576-11ea-923b-ac72899d63fe",
+    "crowdanki_uuid": "9c73da86-6777-11ea-9ca9-ac72899d63fe",
     "deck_config_uuid": "f0dd73fb-6576-11ea-923b-ac72899d63fe",
     "deck_configurations": [
         {
@@ -283,7 +283,7 @@
             "data": "",
             "fields": [
                 "COVID-19 can evolve into",
-                "pneumonia and organ failures",
+                "pneumonia and organs failure",
                 "Coronavirus disease 2019 - Wikiwand. Retrieved March 13, 2020, from https://www.wikiwand.com/en/Coronavirus_disease_2019",
                 ""
             ],
@@ -311,7 +311,8 @@
             "note_model_uuid": "f0dd740a-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
-                "health"
+                "health",
+                "marked"
             ]
         },
         {
@@ -364,7 +365,8 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd740a-6576-11ea-923b-ac72899d63fe",
             "tags": [
-                "health"
+                "health",
+                "marked"
             ]
         },
         {
