@@ -21,3 +21,10 @@ First, make any change to the deck you see fit. Then, from AnkiDesktop select Fi
 
 ## 2. Through github issues
 Navigate to [this repository's issue list](https://github.com/evolverine/covid-19-anki-deck/issues) and click the "New issue" button. In that issue describe as clearly as possible what you would like changed or added to the deck.
+
+# Editorial considerations
+
+* knowledge is welcome that can help reach the goals of this deck (see above)
+* this is meant to be a global resource, so overly-specific local content isn't meant here
+* essential that the information come from reputable sources
+* useful to become familiar with [the guidelines for formulating knowledge for flash cards](https://www.supermemo.com/en/articles/20rules), but we can work together at structuring the knowledge for flash cards
