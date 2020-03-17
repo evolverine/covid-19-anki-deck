@@ -1,7 +1,7 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "a96036f2-684b-11ea-b7d3-ac72899d63fe",
+    "crowdanki_uuid": "fd06b70a-685e-11ea-b7d3-ac72899d63fe",
     "deck_config_uuid": "f0dd73fb-6576-11ea-923b-ac72899d63fe",
     "deck_configurations": [
         {
@@ -132,26 +132,26 @@
             ],
             "sortf": 0,
             "tags": [
-                "health"
+                "plants"
             ],
             "tmpls": [
                 {
-                    "afmt": "<span class=\"front\">{{FrontSide}}</span>\n\n<hr id=answer>\n\n<span class=\"back\">{{Back}}</span>\n\n<hr id=example>\n\nSource: {{Source}}",
+                    "afmt": "<div class=\"front\">{{FrontSide}}</div>\n<br/>\n<div class=\"back\">{{Back}}</div>\n\n{{#Source}}<hr id=\"source\">Source: {{Source}}{{/Source}}",
                     "bafmt": "",
                     "bqfmt": "",
                     "did": null,
                     "name": "Front-Back",
                     "ord": 0,
-                    "qfmt": "{{#Context}}Context: {{Context}}<br/><br/>{{/Context}}\n{{Front}}"
+                    "qfmt": "{{#Context}}Context: {{Context}}<br/><hr id=\"context\">{{/Context}}\n{{Front}}"
                 },
                 {
-                    "afmt": "<span class=\"front\">{{Back}}</span>\n\n<hr id=answer>\n\n<span class=\"back\">{{Front}}</span>\n\n<hr id=example>\n\nSource: {{Source}}",
+                    "afmt": "<div class=\"front\">{{FrontSide}}</div>\n<br/>\n<div class=\"back\">{{Front}}</div>\n\n{{#Source}}<hr id=\"source\">Source: {{Source}}{{/Source}}",
                     "bafmt": "",
                     "bqfmt": "",
                     "did": null,
                     "name": "Back-Front",
                     "ord": 1,
-                    "qfmt": "{{#Include Reverse}}{{#Context}}Context: {{Context}}<br/><br/>{{/Context}}\n{{Back}}{{/Include Reverse}}"
+                    "qfmt": "{{#Include Reverse}}{{#Context}}Context: {{Context}}<br/><hr id=\"context\">{{/Context}}\n{{Back}}{{/Include Reverse}}"
                 }
             ],
             "type": 0,
