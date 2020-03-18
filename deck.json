@@ -797,6 +797,25 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "Coronaviruses get their name from",
+                "the solar corona",
+                "Masters, P. S. The molecular biology of coronaviruses. Advances in Virus Research 66, 193–292 (2006)",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "n&/sL[*Q$G",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "biology",
+                "marked"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "Virus which caused the 2002-2004 outbreak of severe acute respiratory syndrome (SARS)",
                 "SARS-CoV (or, more recently, \"SARS-CoV-1\")",
                 "Masters, P. S. The molecular biology of coronaviruses. Advances in Virus Research 66, 193–292 (2006)",
@@ -899,6 +918,44 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Approximate percentage of common cold cases caused by human strains of coronaviruses",
+                "15%",
+                "S.B. Greenberg, Update on human rhinovirus and coronavirus infections, Semin.\nRespir. Crit. Care Med. 37 (4) (2016) 555–571.",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Nxi[K!l]Bs",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "biology",
+                "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Hosts of Coronaviruses",
+                "vertebrates, such as humans, birds, bats, snakes, mice, etc.",
+                "Yang, Y., Peng, F., Wang, R., Guan, K., Jiang, T., Xu, G., ... &amp; Chang, C. (2020). The deadly coronaviruses: The 2003 SARS pandemic and the 2020 novel coronavirus epidemic in China. Journal of Autoimmunity, 102434.",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "l1z[sI&}4L",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "biology",
+                "health"
             ]
         },
         {
