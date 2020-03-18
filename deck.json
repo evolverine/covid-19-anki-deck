@@ -797,6 +797,60 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "Classification of viruses according to their genetic material",
+                "DNA and RNA viruses",
+                "Lodish H, Berk A, Zipursky SL, et al. Molecular Cell Biology. 4th \nedition. New York: W. H. Freeman; 2000.  Section 6.3, Viruses: \nStructure, Function, and Uses. Available from: https://www.ncbi.nlm.nih.gov/books/NBK21523/",
+                "",
+                "✔️"
+            ],
+            "flags": 0,
+            "guid": "J,*_z.%Yr5",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "biology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "According to its genetic material, SARS-CoV-2 is classified as",
+                "An RNA virus",
+                "Masters, P. S. The molecular biology of coronaviruses. Advances in Virus Research 66, 193–292 (2006)",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "DsUX-5@*9R",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "biology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How does the size of the genetic material in coronaviruses compare to other RNA viruses?",
+                "Coronaviruses have the largest genomes of all RNA viruses",
+                "Masters, P. S. The molecular biology of coronaviruses. Advances in Virus Research 66, 193–292 (2006)",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "C>=((pi&aK",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "biology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "Coronaviruses get their name from",
                 "the solar corona",
                 "Masters, P. S. The molecular biology of coronaviruses. Advances in Virus Research 66, 193–292 (2006)",
@@ -878,6 +932,24 @@
             ],
             "flags": 0,
             "guid": "K~V5uz]y#J",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "biology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How do mutation rates of DNA and RNA viruses compare?",
+                "RNA viruses usually have higher mutation rates than DNA viruses",
+                "anjuan, R.; Nebot, M. R.; Chirico, N.; Mansky, L. M.; Belshaw, R. (2010). \"Viral Mutation Rates\". Journal of Virology. 84 (19): 9733–48. doi:10.1128/JVI.00694-10",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "3OCQ#VUdS",
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
