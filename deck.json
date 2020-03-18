@@ -833,6 +833,42 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "MERS-CoV stands for",
+                "Middle East respiratory syndrome-related coronavirus",
+                "de Groot RJ, Baker SC, Baric RS, Brown CS, Drosten C, Enjuanes L, et al. (July 2013). \"Middle East respiratory syndrome coronavirus (MERS-CoV): announcement of the Coronavirus Study Group\". Journal of Virology. 87 (14): 7790–2. doi:10.1128/JVI.01244-13",
+                "",
+                "✔️"
+            ],
+            "flags": 0,
+            "guid": "Mneo_MBJsl",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "biology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Year when MERS-CoV was first reported",
+                "2012",
+                "de Groot RJ, Baker SC, Baric RS, Brown CS, Drosten C, Enjuanes L, et al. (July 2013). \"Middle East respiratory syndrome coronavirus (MERS-CoV): announcement of the Coronavirus Study Group\". Journal of Virology. 87 (14): 7790–2. doi:10.1128/JVI.01244-13",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "K~V5uz]y#J",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "biology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "Year of first report of SARS-CoV",
                 "2002",
                 "Masters, P. S. The molecular biology of coronaviruses. Advances in Virus Research 66, 193–292 (2006)",
@@ -863,6 +899,43 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Case fatality rate (CFR) of MERS",
+                "34%",
+                "Yang, Y., Peng, F., Wang, R., Guan, K., Jiang, T., Xu, G., ... &amp; Chang, C. (2020). The deadly coronaviruses: The 2003 SARS pandemic and the 2020 novel coronavirus epidemic in China. Journal of Autoimmunity, 102434.",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "bv9JNdO~u|",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "biology",
+                "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "MERS stands for",
+                "Middle East respiratory syndrome",
+                "de Groot RJ, Baker SC, Baric RS, Brown CS, Drosten C, Enjuanes L, et al. (July 2013). \"Middle East respiratory syndrome coronavirus (MERS-CoV): announcement of the Coronavirus Study Group\". Journal of Virology. 87 (14): 7790–2. doi:10.1128/JVI.01244-13",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "fk|HE$whxl",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "health"
             ]
         }
     ]
