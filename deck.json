@@ -1,7 +1,7 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "fd06b70a-685e-11ea-b7d3-ac72899d63fe",
+    "crowdanki_uuid": "50cd8a42-6942-11ea-b783-ac72899d63fe",
     "deck_config_uuid": "f0dd73fb-6576-11ea-923b-ac72899d63fe",
     "deck_configurations": [
         {
@@ -606,8 +606,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "The most closely related human coronavirus to SARS-CoV-2",
-                "SARS-CoV-1",
+                "The virus most closely related to SARS-CoV-2",
+                "SARS-CoV",
                 "N van Doremalen, et al. Aerosol and surface stability of HCoV-19 (SARS-CoV-2) compared to SARS-CoV-1. The New England Journal of Medicine. DOI: 10.1056/NEJMc2004973 (2020)",
                 "",
                 ""
@@ -791,6 +791,78 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Virus which caused the 2002-2004 outbreak of severe acute respiratory syndrome (SARS)",
+                "SARS-CoV (or, more recently, \"SARS-CoV-1\")",
+                "Masters, P. S. The molecular biology of coronaviruses. Advances in Virus Research 66, 193–292 (2006)",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Jkr?lnP[w>",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "biology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Case fatality rate (CFR) of SARS",
+                "9.6%",
+                "Smith, Richard D. (2006). \"Responding to global infectious disease outbreaks: Lessons from SARS on the role of risk perception, communication and management\". Social Science &amp; Medicine. 63 (12): 3113–3123",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "As*6?6r~Fp",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "biology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Year of first report of SARS-CoV",
+                "2002",
+                "Masters, P. S. The molecular biology of coronaviruses. Advances in Virus Research 66, 193–292 (2006)",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "u*PW](2fKB",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "biology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Virus that appears genetically closest to SARS-CoV-2",
+                "SARS-CoV",
+                "Severe acute respiratory syndrome-related coronavirus: The species and its viruses – a statement of the Coronavirus Study GroupAlexander E. Gorbalenya, Susan C. Baker, Ralph S. Baric, Raoul J. de Groot, Christian Drosten, Anastasia A. Gulyaeva, Bart L. Haagmans, Chris Lauber, Andrey M Leontovich, Benjamin W. Neuman, Dmitry Penzar, Stanley Perlman, Leo L.M. Poon, Dmitry Samborskiy, Igor A. Sidorov, Isabel Sola, John ZiebuhrbioRxiv 2020.02.07.937862; doi: https://doi.org/10.1101/2020.02.07.937862",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "q<l5gQS6ul",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "biology"
             ]
         }
     ]
