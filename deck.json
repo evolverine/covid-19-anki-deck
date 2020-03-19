@@ -1,7 +1,7 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "abf0de34-69d7-11ea-97ea-ac72899d63fe",
+    "crowdanki_uuid": "a9300ffc-69f1-11ea-97ea-ac72899d63fe",
     "deck_config_uuid": "f0dd73fb-6576-11ea-923b-ac72899d63fe",
     "deck_configurations": [
         {
@@ -574,8 +574,8 @@
             "data": "",
             "fields": [
                 "Why is it hard to estimate the case fatality rate (CFR) for COVID-19?",
-                "because many people might go undiagnosed due to very light symptoms.",
-                "Case fatality rate - Wikiwand. Retrieved March 16, 2020, from https://www.wikiwand.com/en/Case_fatality_rate",
+                "<div>- official numbers do not reflect reality</div><div>- no mortality data available for ongoing cases</div><div></div>",
+                "<div>Battegay, M., Kuehl, R., \nTschudin-Sutter, S., Hirsch, H. H., Widmer, A. F., &amp; Neher, R. A. \n(2020). 2019-novel Coronavirus (2019-nCoV): estimating the case fatality\n rate–a word of caution. <i>Swiss medical weekly</i>, <i>150</i>(0506).</div>",
                 "",
                 ""
             ],
@@ -1196,6 +1196,42 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
+                "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Can asymptomatic transmission of COVID-19 occur?",
+                "Very likely yes",
+                "<div>Mizumoto, K., Kagaya, K., Zarebski, \nA., &amp; Chowell, G. (2020). Estimating the asymptomatic proportion of \ncoronavirus disease 2019 (COVID-19) cases on board the Diamond Princess \ncruise ship, Yokohama, Japan, 2020. <i>Eurosurveillance</i>, <i>25</i>(10), 2000180.</div><div><br></div><div><div>Nishiura, H., Kobayashi, T., Miyama, \nT., Suzuki, A., Jung, S., Hayashi, K., ... &amp; Linton, N. M. (2020). \nEstimation of the asymptomatic ratio of novel coronavirus infections \n(COVID-19). <i>medRxiv</i>.</div></div>",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "t]KXRl]!3[",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Why is it that official numbers&nbsp;do <b>not</b> reflect the current reality of COVID-19?",
+                "<div>- lack of sufficient testing equipment<br></div><div>- time lag between infection and diagnosis<br></div>- asymptomatic infections",
+                "Battegay, M., Kuehl, R., Tschudin-Sutter, S., Hirsch, H. H., Widmer, A. F., &amp; Neher, R. A. (2020). 2019-novel Coronavirus (2019-nCoV): estimating the case fatality rate–a word of caution.&nbsp;<i>Swiss medical weekly</i>,&nbsp;<i>150</i>(0506).<br><div><br></div><div>Coronavirus: Why You Must Act Now - Tomas Pueyo - Medium. Retrieved March 19, 2020, from https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca<br></div>",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Fz(!G;#8@C",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
                 "health"
             ]
         }
