@@ -1,6 +1,6 @@
 # covid-19-anki-deck
-An Anki deck for COVID-19 information for the general public. I hope this compilation of information can help more of us to develop basic fluency regarding the pandemic, to spot fake rumours, to have a collection of reliable sources, to know why we're taking the measures we're advised to take, and in general to better take care of ourselves and our loved ones.
-If you want to quickly check out the content in a readable way, head to [the clone I'm maintaining on quizlet](https://quizlet.com/_87ozfq?x=1qqt&i=11csyy).
+An [Anki](https://apps.ankiweb.net/) deck for COVID-19 information for the general public. I hope this compilation of information can help more of us to develop basic fluency regarding the pandemic, to spot fake rumours, to have a collection of reliable sources, to know why we're taking the measures we're advised to take, and in general to better take care of ourselves and our loved ones.
+If you want to quickly check out the content in a (more) readable way, head to [the clone I'm maintaining on quizlet](https://quizlet.com/_87ozfq?x=1qqt&i=11csyy).
 
 # How to use
 1. Install [Anki Desktop](https://apps.ankiweb.net/)
