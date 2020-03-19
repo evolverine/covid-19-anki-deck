@@ -1066,6 +1066,79 @@
             "tags": [
                 "health"
             ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How do the temperature and humidity of a region appear to influence COVID-19 transmission rates?",
+                "A higher temperature and humidity decrease the transmission rate",
+                "Wang, J., Tang, K., Feng, K., &amp; Lv, W. (2020). High Temperature and High Humidity Reduce the Transmission of COVID-19. Available at SSRN 3551767.",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "saxKrsX[wV",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "biology",
+                "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Comorbidity",
+                "Another condition co-occuring with a disease",
+                "Comorbidity - Wikiwand. Retrieved March 19, 2020, from https://www.wikiwand.com/en/Comorbidity",
+                "",
+                "✔️"
+            ],
+            "flags": 0,
+            "guid": "o]CE<|uSB`",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which pre-existing condition seems to worsen prospects the most for those infected with SARS-CoV-2?",
+                "cardiovascular disease",
+                "Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19) - World Health Organization, Feb. 28, 2020",
+                "comorbidities",
+                ""
+            ],
+            "flags": 0,
+            "guid": "H@?|6ntrJJ",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "(4) Main comorbidities which worsen prospects for those infected with SARS-CoV-2",
+                "cardiovascular disease, diabetes, chronic respiratory disease, cancer",
+                "Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19) - World Health Organization, Feb. 28, 2020",
+                "comorbidities",
+                ""
+            ],
+            "flags": 0,
+            "guid": "zO-m5@^x~=",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "health"
+            ]
         }
     ]
 }
