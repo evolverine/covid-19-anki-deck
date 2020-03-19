@@ -243,7 +243,7 @@
             "fields": [
                 "Incubation period of COVID-19",
                 "0-14 days",
-                "- Coronavirus disease 2019 - Wikiwand. Retrieved March 13, 2020, from https://www.wikiwand.com/en/Coronavirus_disease_2019<div><br></div><div>- DOI:  10.1056/NEJMoa2002032</div><div><br></div><div>-&nbsp;Q&amp;A on coronaviruses (COVID-19). Retrieved March 13, 2020, from https://www.who.int/news-room/q-a-detail/q-a-coronaviruses</div>",
+                "<div>- Guan, W. J., Ni, Z. Y., Hu, Y., Liang,\n W. H., Ou, C. Q., He, J. X., ... &amp; Du, B. (2020). Clinical \ncharacteristics of coronavirus disease 2019 in China. <i>New England Journal of Medicine</i>.<br></div><div><br></div><div>-&nbsp;Q&amp;A on coronaviruses (COVID-19). Retrieved March 13, 2020, from https://www.who.int/news-room/q-a-detail/q-a-coronaviruses</div>",
                 "",
                 ""
             ],
@@ -253,8 +253,7 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
-                "health",
-                "marked"
+                "health"
             ]
         },
         {
@@ -803,15 +802,14 @@
                 "DNA and RNA viruses",
                 "Lodish H, Berk A, Zipursky SL, et al. Molecular Cell Biology. 4th \nedition. New York: W. H. Freeman; 2000.  Section 6.3, Viruses: \nStructure, Function, and Uses. Available from: https://www.ncbi.nlm.nih.gov/books/NBK21523/",
                 "",
-                "✔️"
+                ""
             ],
             "flags": 0,
             "guid": "J,*_z.%Yr5",
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
-                "biology",
-                "marked"
+                "biology"
             ]
         },
         {
@@ -865,8 +863,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
-                "biology",
-                "marked"
+                "biology"
             ]
         },
         {
