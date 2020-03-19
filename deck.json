@@ -56,7 +56,9 @@
     "dyn": 0,
     "extendNew": 10,
     "extendRev": 50,
-    "media_files": [],
+    "media_files": [
+        "49651434338_0725a7cc03_w.jpg"
+    ],
     "name": "Active::COVID-19",
     "note_models": [
         {
@@ -854,8 +856,8 @@
             "data": "",
             "fields": [
                 "Coronaviruses get their name from",
-                "the solar corona",
-                "Masters, P. S. The molecular biology of coronaviruses. Advances in Virus Research 66, 193–292 (2006)",
+                "the solar corona<div><br></div><div><img src=\"49651434338_0725a7cc03_w.jpg\"><br></div><div><br></div><div>image source <a href=\"https://www.flickr.com/photos/niaid/49651434338/\">NIAID</a></div>",
+                "Masters, P. S. The molecular biology of coronaviruses. Advances in Virus Research 66, 193–292 (2006)<div>NIAID Flickr account</div>",
                 "",
                 ""
             ],
