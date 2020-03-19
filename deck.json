@@ -132,6 +132,7 @@
             ],
             "sortf": 0,
             "tags": [
+                "biology",
                 "health"
             ],
             "tmpls": [
@@ -581,7 +582,8 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
-                "health"
+                "health",
+                "marked"
             ]
         },
         {
@@ -1090,6 +1092,24 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "Which gender (of the two \"main\" ones) seems to have a higher mortality rate",
+                "Male",
+                "<a href=\"https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf\">Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19)</a>&nbsp;- World Health Organization, Feb. 28, 2020",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "mZsXp|KDE;",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "Comorbidity",
                 "Another condition co-occuring with a disease",
                 "Comorbidity - Wikiwand. Retrieved March 19, 2020, from https://www.wikiwand.com/en/Comorbidity",
@@ -1137,6 +1157,43 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Median time from onset of symptoms to clinical recovery",
+                "14 days",
+                "<a href=\"https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf\">Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19)</a> - World Health Organization, Feb. 28, 2020",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "B($c;+c&6&",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Number of coronaviruses that are endemic, and currently circulating in human populations (apart from SARS-CoV-2)",
+                "4",
+                "<div>Li, R., Pei, S., Chen, B., Song, Y., \nZhang, T., Yang, W., &amp; Shaman, J. (2020). Substantial undocumented \ninfection facilitates the rapid dissemination of novel coronavirus \n(SARS-CoV2). <i>Science</i>.</div>",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "c9c=A5d`&P",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "biology",
                 "health"
             ]
         }
