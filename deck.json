@@ -1,7 +1,7 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "50cd8a42-6942-11ea-b783-ac72899d63fe",
+    "crowdanki_uuid": "abf0de34-69d7-11ea-97ea-ac72899d63fe",
     "deck_config_uuid": "f0dd73fb-6576-11ea-923b-ac72899d63fe",
     "deck_configurations": [
         {
@@ -182,7 +182,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Complete name of the virus causing the Coronavirus disease",
+                "Complete name of the virus causing the COVID-19 / the Coronavirus disease",
                 "SARS-CoV-2",
                 "Gobalenya AE, Baker SC, Baric RS, et al. (March 2020). \"The species Severe acute respiratory syndrome-related coronavirus: classifying 2019-nCoV and naming it SARS-CoV-2\". Nature Microbiology: 1–9. doi:10.1038/s41564-020-0695-z. PMID 32123347.",
                 "",
@@ -202,8 +202,8 @@
             "data": "",
             "fields": [
                 "The three common symptoms of COVID-19",
-                "fever, cough, shortness of breath",
-                "Symptoms | CDC. Retrieved March 17, 2020, from https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html",
+                "fever, dry cough, fatigue, shortness of breath",
+                "Symptoms | CDC. Retrieved March 17, 2020, from https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html<div><br></div><div>Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19) - World Health Organization, Feb. 28, 2020<br></div>",
                 "",
                 "✔️"
             ],
@@ -553,7 +553,7 @@
             "data": "",
             "fields": [
                 "Case fatality rate",
-                "proportion of deaths from diagnosed population",
+                "proportion of deaths in the diagnosed population",
                 "Case fatality rate - Wikiwand. Retrieved March 16, 2020, from https://www.wikiwand.com/en/Case_fatality_rate",
                 "",
                 "✔️"
