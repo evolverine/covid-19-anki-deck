@@ -1,7 +1,7 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "a9300ffc-69f1-11ea-97ea-ac72899d63fe",
+    "crowdanki_uuid": "eca72aee-6aba-11ea-8854-ac72899d63fe",
     "deck_config_uuid": "f0dd73fb-6576-11ea-923b-ac72899d63fe",
     "deck_configurations": [
         {
@@ -1217,7 +1217,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Why is it that official numbers&nbsp;do <b>not</b> reflect the current reality of COVID-19?",
+                "Why is it that official numbers&nbsp;do not reflect the current reality of COVID-19?",
                 "<div>- lack of sufficient testing equipment<br></div><div>- time lag between infection and diagnosis<br></div>- asymptomatic infections",
                 "Battegay, M., Kuehl, R., Tschudin-Sutter, S., Hirsch, H. H., Widmer, A. F., &amp; Neher, R. A. (2020). 2019-novel Coronavirus (2019-nCoV): estimating the case fatality rate–a word of caution.&nbsp;<i>Swiss medical weekly</i>,&nbsp;<i>150</i>(0506).<br><div><br></div><div>Coronavirus: Why You Must Act Now - Tomas Pueyo - Medium. Retrieved March 19, 2020, from https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca<br></div>",
                 "",
