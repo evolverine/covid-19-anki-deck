@@ -1,7 +1,7 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "eca72aee-6aba-11ea-8854-ac72899d63fe",
+    "crowdanki_uuid": "b583feb2-6c2b-11ea-bb48-ac72899d63fe",
     "deck_config_uuid": "f0dd73fb-6576-11ea-923b-ac72899d63fe",
     "deck_configurations": [
         {
@@ -64,7 +64,7 @@
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.front {\n color: blue;\n}\n\n.back {\n color: green;\n}",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background: url(\"coronaBackground.jpg\") top no-repeat;\n}\n\n.back {\n color: black;\n font-weight: bold;\n}\n\n.smallPrint {\n font-size: small;\n}",
             "flds": [
                 {
                     "font": "Arial",
@@ -138,7 +138,7 @@
             ],
             "tmpls": [
                 {
-                    "afmt": "<div class=\"front\">{{FrontSide}}</div>\n<br/>\n<div class=\"back\">{{Back}}</div>\n\n{{#Source}}<hr id=\"source\">Source: {{Source}}{{/Source}}",
+                    "afmt": "<div class=\"front\">{{FrontSide}}</div>\n<br/>\n<div class=\"back\">{{Back}}</div>\n\n{{#Source}}<hr id=\"source\"><div class=\"smallPrint\"><i>Source</i>: {{Source}}</div>{{/Source}}",
                     "bafmt": "",
                     "bqfmt": "",
                     "did": null,
