@@ -11,6 +11,8 @@ If you want to quickly check out the content in a (more) readable way, head to [
 2. Install [the CrowdAnki add-on](https://ankiweb.net/shared/info/1788670778) and restart Anki Desktop.
 3. From Anki Desktop `select File -> CrowdAnki: Import from Github`. Enter *evolverine/covid-19-anki-deck* in the dialog that appears and click `OK`. The COVID-19 deck should appear, and you can start studying it.
 
+Note that the blue-viruses background image only appears if the card is part of a (sub)deck with "COVID-19" in its name (which is the default).
+
 # How to keep up to date with changes and additions
 Repeat step 3 above, ideally on a daily basis.
 The one limitation is that if a note is removed in this deck this won't be reflected in your personal deck. But we will try to keep this in mind and, when necessary, change the content of notes instead of deleting them.
