@@ -626,7 +626,7 @@
             "data": "",
             "fields": [
                 "Why is it hard to estimate the case fatality rate (CFR) for COVID-19?",
-                "<div>- official numbers do not reflect reality</div><div>- no mortality data available for ongoing cases</div><div></div>",
+                "<div>The numbers do not reflect reality</div><div></div>",
                 "<div>Battegay, M., Kuehl, R., \nTschudin-Sutter, S., Hirsch, H. H., Widmer, A. F., &amp; Neher, R. A. \n(2020). 2019-novel Coronavirus (2019-nCoV): estimating the case fatality\n rate–a word of caution. <i>Swiss medical weekly</i>, <i>150</i>(0506).</div>",
                 "",
                 ""
@@ -1271,10 +1271,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Why is it that official numbers&nbsp;do not reflect the current reality of COVID-19?",
-                "<div>- lack of sufficient testing equipment<br></div><div>- time lag between infection and diagnosis<br></div>- asymptomatic infections",
+                "Information that we could know but don't, due to limited resources",
+                "Who is infected and who isn't",
                 "Battegay, M., Kuehl, R., Tschudin-Sutter, S., Hirsch, H. H., Widmer, A. F., &amp; Neher, R. A. (2020). 2019-novel Coronavirus (2019-nCoV): estimating the case fatality rate–a word of caution.&nbsp;<i>Swiss medical weekly</i>,&nbsp;<i>150</i>(0506).<br><div><br></div><div>Coronavirus: Why You Must Act Now - Tomas Pueyo - Medium. Retrieved March 19, 2020, from https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca<br></div>",
-                "",
+                "Official numbers not reflecting the ongoing reality of the COVID-19 spread",
                 ""
             ],
             "flags": 0,
@@ -1428,6 +1428,96 @@
             "guid": "rP]^D_`Sm;",
             "newlyAdded": false,
             "note_model_uuid": "ac8b4554-6d1d-11ea-86e7-ac72899d63fe",
+            "tags": [
+                "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Information that's impossible to know",
+                "Mortality data for ongoing cases",
+                "<div>Battegay, M., Kuehl, R., Tschudin-Sutter, S., Hirsch, H. H., Widmer, A. F., &amp; Neher, R. A. (2020). 2019-novel Coronavirus (2019-nCoV): estimating the case fatality rate–a word of caution.&nbsp;<i>Swiss medical weekly</i>,&nbsp;<i>150</i>(0506).<br><div><br></div><div>Coronavirus: Why You Must Act Now - Tomas Pueyo - Medium. Retrieved March 19, 2020, from https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca</div></div>",
+                "Official numbers not reflecting the ongoing reality of the COVID-19 spread",
+                ""
+            ],
+            "flags": 0,
+            "guid": "KH,c=Es&(W",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "When able to test only those who show symptoms we will miss",
+                "Asymptomatic cases",
+                "<div>Battegay, M., Kuehl, R., Tschudin-Sutter, S., Hirsch, H. H., Widmer, A. F., &amp; Neher, R. A. (2020). 2019-novel Coronavirus (2019-nCoV): estimating the case fatality rate–a word of caution.&nbsp;<i>Swiss medical weekly</i>,&nbsp;<i>150</i>(0506).<br><div><br></div><div>Coronavirus: Why You Must Act Now - Tomas Pueyo - Medium. Retrieved March 19, 2020, from https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca</div></div>",
+                "Official numbers not reflecting the ongoing reality of the COVID-19 spread",
+                ""
+            ],
+            "flags": 0,
+            "guid": "hR2fc?^Rxn",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "When able to test only those who show symptoms we will not know how many people are infected due to",
+                "The incubation period (during which people who are infected do not show any symptoms)",
+                "<div>Battegay, M., Kuehl, R., Tschudin-Sutter, S., Hirsch, H. H., Widmer, A. F., &amp; Neher, R. A. (2020). 2019-novel Coronavirus (2019-nCoV): estimating the case fatality rate–a word of caution.&nbsp;<i>Swiss medical weekly</i>,&nbsp;<i>150</i>(0506).<br><div><br></div><div>Coronavirus: Why You Must Act Now - Tomas Pueyo - Medium. Retrieved March 19, 2020, from https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca</div></div>",
+                "Official numbers not reflecting the ongoing reality of the COVID-19 spread",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Q@-_G}d>DM",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Incubation period",
+                "<div>Time between infection and symptom onset<br></div>",
+                "Nelson KE, Williams CM. Infectious disease epidemiology, theory and practice. Jones &amp; Bartlett Publishers; Sudbury, MA: 2006.<br>",
+                "",
+                "✔️"
+            ],
+            "flags": 0,
+            "guid": "l1K|!ZeDv>",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The reason we are not able to test everyone, or even everyone with symptoms",
+                "Lack of sufficient testing equipment",
+                "Battegay, M., Kuehl, R., Tschudin-Sutter, S., Hirsch, H. H., Widmer, A. F., &amp; Neher, R. A. (2020). 2019-novel Coronavirus (2019-nCoV): estimating the case fatality rate–a word of caution.&nbsp;<i>Swiss medical weekly</i>,&nbsp;<i>150</i>(0506).<br><div><br></div><div>Coronavirus: Why You Must Act Now - Tomas Pueyo - Medium. Retrieved March 19, 2020, from https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca</div>",
+                "Official numbers not reflecting the ongoing reality of the COVID-19 spread",
+                ""
+            ],
+            "flags": 0,
+            "guid": "n>7L2SWmNi",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "health"
             ]
