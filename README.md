@@ -1,5 +1,9 @@
 # covid-19-anki-deck
-An [Anki](https://apps.ankiweb.net/) deck for COVID-19 information for the general public. I hope this compilation of information can help more of us to develop basic fluency regarding the pandemic, to spot fake rumours, to have a collection of reliable sources, to know why we're taking the measures we're advised to take, and in general to better take care of ourselves and our loved ones.
+An [Anki](https://apps.ankiweb.net/) deck for COVID-19 information for the general public.
+
+# Goals
+
+I hope this compilation of information can help more of us to develop basic fluency regarding the pandemic, to spot fake rumours, to have a collection of reliable sources, to know why we're taking the measures we're advised to take, and in general to better take care of ourselves and our loved ones.
 If you want to quickly check out the content in a (more) readable way, head to [the clone I'm maintaining on quizlet](https://quizlet.com/_87ozfq?x=1qqt&i=11csyy).
 
 # How to use
@@ -22,11 +26,5 @@ First, make any change to the deck you see fit. Then, from AnkiDesktop select Fi
 ## 2. Through github issues
 Navigate to [this repository's issue list](https://github.com/evolverine/covid-19-anki-deck/issues) and click the "New issue" button. In that issue describe as clearly as possible what you would like changed or added to the deck.
 
-# Editorial considerations
-
-* knowledge is welcome that can help reach the goals of this deck (see above)
-* this is meant to be a global resource, so overly-specific local content isn't useful
-* it is essential that the information come from reputable sources
-* useful to become familiar with [the guidelines for formulating knowledge for flash cards](https://www.supermemo.com/en/articles/20rules), but we can work together at structuring the knowledge for flash cards
-* if your note contents introduce new concepts, see that you first define them (in their own notes)
-* do not change the note types or add new ones; the fewer and simpler the better.
+# Contributing
+See [the contributing guidelines](CONTRIBUTING.md) for how to join the effort to make this a great resource.
