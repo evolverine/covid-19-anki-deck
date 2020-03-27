@@ -158,6 +158,60 @@
             ],
             "type": 0,
             "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "ac8b4554-6d1d-11ea-86e7-ac72899d63fe",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Source",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze with Source",
+            "sortf": 0,
+            "tags": [
+                "health"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}\n<br/><br/>\n<b>{{Source}}</b>",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
         }
     ],
     "notes": [
@@ -1322,6 +1376,59 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
+                "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Anosmia",
+                "Loss of ability to detect one or more smells",
+                "<div>Jones, Nicholas (2010). Practical Rhinology. CRC Press. p. 25. ISBN 9781444108613.<br></div><div><br></div>Claire Hopkins, Carl Philpott, Simon Gane, 22 March 2020, \"Advice for patients with new-onset anosmia during COVID-19 pandemic\"",
+                "",
+                "✔️"
+            ],
+            "flags": 0,
+            "guid": "h1tWT5CY[i",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "biology",
+                "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Hyposmia",
+                "Decreased sensitivity to one or more smells.",
+                "<div>Jones, Nicholas (2010). Practical Rhinology. CRC Press. p. 25. ISBN 9781444108613.</div>",
+                "",
+                "✔️"
+            ],
+            "flags": 0,
+            "guid": "Mz{D^|G5H=",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Many COVID-19 cases that were previously considered {{c1::asymptomatic}} do indeed exhibit one notable symptom: {{c2::anosmia}}.",
+                "",
+                "<div>New Coronavirus Infection Symptoms Documented: Sudden Loss Of Sense Of Smell Or Taste. Retrieved March 27, 2020, from https://coronawiki.org/page/sudden-loss-of-sense-of-smell-or-taste-new-symptom-of-coronavirus</div><div><br></div><div>\"Advice for patients with new-onset anosmia during COVID-19 pandemic\", Claire Hopkins, Carl Philpott, Simon Gane, 22 March 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "rP]^D_`Sm;",
+            "newlyAdded": false,
+            "note_model_uuid": "ac8b4554-6d1d-11ea-86e7-ac72899d63fe",
+            "tags": [
                 "health"
             ]
         }
