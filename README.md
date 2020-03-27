@@ -25,6 +25,8 @@ Navigate to [this repository's issue list](https://github.com/evolverine/covid-1
 # Editorial considerations
 
 * knowledge is welcome that can help reach the goals of this deck (see above)
-* this is meant to be a global resource, so overly-specific local content isn't meant here
-* essential that the information come from reputable sources
+* this is meant to be a global resource, so overly-specific local content isn't useful
+* it is essential that the information come from reputable sources
 * useful to become familiar with [the guidelines for formulating knowledge for flash cards](https://www.supermemo.com/en/articles/20rules), but we can work together at structuring the knowledge for flash cards
+* if your note contents introduce new concepts, see that you first define them (in their own notes)
+* do not change the note types or add new ones; the fewer and simpler the better.
