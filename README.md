@@ -1,4 +1,4 @@
-# covid-19-anki-deck
+# COVID-19 Anki deck
 An [Anki](https://apps.ankiweb.net/) deck for COVID-19 information for the general public.
 
 # Goals
