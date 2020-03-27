@@ -1,7 +1,7 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "b583feb2-6c2b-11ea-bb48-ac72899d63fe",
+    "crowdanki_uuid": "01b9468c-702a-11ea-b067-ac72899d63fe",
     "deck_config_uuid": "f0dd73fb-6576-11ea-923b-ac72899d63fe",
     "deck_configurations": [
         {
@@ -109,7 +109,7 @@
                     "ord": 4,
                     "rtl": false,
                     "size": 20,
-                    "sticky": false
+                    "sticky": true
                 }
             ],
             "latexPost": "\\end{document}",
@@ -1228,6 +1228,100 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tuberculosis",
+                "Bacterial infectious disease most often affecting the lungs",
+                "Tuberculosis. Retrieved March 27, 2020, from https://www.who.int/en/news-room/fact-sheets/detail/tuberculosis",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "wpIY`9~iJ[",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bacteria that cause tuberculosis",
+                "Mycobacterium tuberculosis",
+                "Tuberculosis. Retrieved March 27, 2020, from https://www.who.int/en/news-room/fact-sheets/detail/tuberculosis",
+                "",
+                "✔️"
+            ],
+            "flags": 0,
+            "guid": "EOWbvrTK{M",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "biology",
+                "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Measles",
+                "Viral disease caused by&nbsp;measles morbillivirus",
+                "Furuse, Y., Suzuki, A., &amp; Oshitani, H. (2010). Origin of measles \nvirus: divergence from rinderpest virus between the 11th and 12th \ncenturies. <i>Virology journal</i>, <i>7</i>, 52. https://doi.org/10.1186/1743-422X-7-52",
+                "",
+                "✔️"
+            ],
+            "flags": 0,
+            "guid": "bCU<(HiWR8",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "biology",
+                "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Virus that causes measles",
+                "Measles morbillivirus",
+                "Furuse, Y., Suzuki, A., &amp; Oshitani, H. (2010). Origin of measles \nvirus: divergence from rinderpest virus between the 11th and 12th \ncenturies. <i>Virology journal</i>, <i>7</i>, 52. https://doi.org/10.1186/1743-422X-7-52",
+                "",
+                "✔️"
+            ],
+            "flags": 0,
+            "guid": "I[h[fB,P`L",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "biology",
+                "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is unusual about the measles and tuberculosis vaccines that is relevant to the COVID-19 pandemic?",
+                "They also improve the immune system response in general (not just in response to the pathogens they target).",
+                "<div>Century-old tuberculosis vaccine could steel the immune system against the new coronavirus. Retrieved March 27, 2020, from https://coronawiki.org/page/century-old-tb-vaccine-could-steel-the-immune-system-against-the-new-coronavirus<br></div><div><br></div>Research. Retrieved March 27, 2020, from https://www.bandim.org/research",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "v+.k;|B*wX",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "biology",
                 "health"
             ]
         }
