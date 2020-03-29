@@ -7,11 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - improving wording (while leaving the content unmodified) increments the patch version
 - adding note types increments the minor version
 - modifying note types (any of their properties, such as fields, css, etc.) increments the major version
-- modifying the content of notes, ie. substantially changing what people will have already learned, increments the major version
+- substantially modifying the content of notes, ie. substantially changing what people will have already learned, increments the major version
+- making minor changes to the content of notes (such as moving an answer from "Very likely yes" to "yes") increments the minor version.
 
 ## [Unreleased]
 
-## [2.0.1] - 2020-03-29 - 3fe87a244b42070c5165fb57e683a59962e13c25
+## [2.1.0] - 2020-03-29 - bf4f622d1cafa96961caca81b94eafffb9f3fe18
+### Changed
+- changed the answer for the note about asymptomatic transmission to "yes", where it used to be "very likely yes"
+- changed an answer to 'possibly' (where it used to be 'no evidence so far') regarding human-to-animal transmission
+
+## [2.0.1] - 2020-03-29 - 015665c740570dc66b0a7cafc88c0a51400fe7ca
 ### Added
 - a javascript file containing the code for showing the background only for cards tagged with 'covid-19'
 - this CHANGELOG.md file
