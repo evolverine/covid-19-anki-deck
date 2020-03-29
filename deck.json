@@ -1,7 +1,7 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "01b9468c-702a-11ea-b067-ac72899d63fe",
+    "crowdanki_uuid": "480c69c8-71a3-11ea-8682-ac72899d63fe",
     "deck_config_uuid": "f0dd73fb-6576-11ea-923b-ac72899d63fe",
     "deck_configurations": [
         {
@@ -144,7 +144,7 @@
                     "did": null,
                     "name": "Front-Back",
                     "ord": 0,
-                    "qfmt": "<script language=\"javascript\">\nif(`{{Subdeck}}`.indexOf(\"COVID-19\") != -1)\n\tdocument.body.style.setProperty(\"--background-img\", \"var(--background-img-corona)\")\n</script>\n{{#Context}}Context: {{Context}}<br/><hr id=\"context\">{{/Context}}\n{{Front}}"
+                    "qfmt": "<script language=\"javascript\">\nif(`{{Tags}}`.split(\" \").indexOf(\"covid-19\") != -1)\n\tdocument.body.style.setProperty(\"--background-img\", \"var(--background-img-corona)\")\n</script>\n{{#Context}}Context: {{Context}}<br/><hr id=\"context\">{{/Context}}\n{{Front}}"
                 },
                 {
                     "afmt": "<div class=\"front\">{{FrontSide}}</div>\n<br/>\n<div class=\"back\">{{Front}}</div>\n\n{{#Source}}<hr id=\"source\"><div class=\"smallPrint\">Source: {{Source}}</div>{{/Source}}",
@@ -153,7 +153,7 @@
                     "did": null,
                     "name": "Back-Front",
                     "ord": 1,
-                    "qfmt": "{{#Include Reverse}}<script language=\"javascript\">\nif(`{{Subdeck}}`.indexOf(\"COVID-19\") != -1)\n\tdocument.body.style.setProperty(\"--background-img\", \"var(--background-img-corona)\")\n</script>\n{{#Context}}Context: {{Context}}<br/><hr id=\"context\">{{/Context}}\n{{Back}}{{/Include Reverse}}"
+                    "qfmt": "{{#Include Reverse}}<script language=\"javascript\">\nif(`{{Tags}}`.split(\" \").indexOf(\"covid-19\") != -1)\n\tdocument.body.style.setProperty(\"--background-img\", \"var(--background-img-corona)\")\n</script>\n{{#Context}}Context: {{Context}}<br/><hr id=\"context\">{{/Context}}\n{{Back}}{{/Include Reverse}}"
                 }
             ],
             "type": 0,
@@ -216,7 +216,7 @@
                     "did": null,
                     "name": "Cloze",
                     "ord": 0,
-                    "qfmt": "<script language=\"javascript\">\nif(`{{Subdeck}}`.indexOf(\"COVID-19\") != -1)\n\tdocument.body.style.setProperty(\"--background-img\", \"var(--background-img-corona)\")\n</script>\n{{cloze:Text}}"
+                    "qfmt": "<script language=\"javascript\">\nif(`{{Tags}}`.split(\" \").indexOf(\"covid-19\") != -1)\n\tdocument.body.style.setProperty(\"--background-img\", \"var(--background-img-corona)\")\n</script>\n{{cloze:Text}}"
                 }
             ],
             "type": 1,
@@ -240,6 +240,7 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
+                "covid-19",
                 "health"
             ]
         },
@@ -259,6 +260,7 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
+                "covid-19",
                 "health"
             ]
         },
@@ -278,6 +280,7 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
+                "covid-19",
                 "health"
             ]
         },
@@ -297,6 +300,7 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
+                "covid-19",
                 "health"
             ]
         },
@@ -316,6 +320,7 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
+                "covid-19",
                 "health"
             ]
         },
@@ -335,6 +340,7 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
+                "covid-19",
                 "health"
             ]
         },
@@ -354,6 +360,7 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
+                "covid-19",
                 "health"
             ]
         },
@@ -372,6 +379,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health",
                 "marked"
             ]
@@ -391,6 +399,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -409,6 +418,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -427,6 +437,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -445,6 +456,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -463,6 +475,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -481,6 +494,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -499,6 +513,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -517,6 +532,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -535,6 +551,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -553,6 +570,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -571,6 +589,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health",
                 "myths"
             ]
@@ -590,6 +609,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health",
                 "myths"
             ]
@@ -609,6 +629,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -627,6 +648,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -645,6 +667,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -663,6 +686,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -681,7 +705,8 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
-                "biology"
+                "biology",
+                "covid-19"
             ]
         },
         {
@@ -700,6 +725,7 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
+                "covid-19",
                 "health"
             ]
         },
@@ -718,7 +744,9 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
-                "health"
+                "covid-19",
+                "health",
+                "marked"
             ]
         },
         {
@@ -735,7 +763,9 @@
             "guid": "u<6>A{>COH",
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
-            "tags": []
+            "tags": [
+                "covid-19"
+            ]
         },
         {
             "__type__": "Note",
@@ -767,7 +797,9 @@
             "guid": "B68%Oqscmx",
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
-            "tags": []
+            "tags": [
+                "covid-19"
+            ]
         },
         {
             "__type__": "Note",
@@ -783,7 +815,9 @@
             "guid": "yz)UY(4OR9",
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
-            "tags": []
+            "tags": [
+                "covid-19"
+            ]
         },
         {
             "__type__": "Note",
@@ -800,6 +834,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -818,6 +853,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -836,6 +872,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -854,6 +891,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -890,7 +928,8 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
-                "biology"
+                "biology",
+                "covid-19"
             ]
         },
         {
@@ -908,7 +947,8 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
-                "biology"
+                "biology",
+                "covid-19"
             ]
         },
         {
@@ -926,7 +966,8 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
-                "biology"
+                "biology",
+                "covid-19"
             ]
         },
         {
@@ -944,7 +985,8 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
-                "biology"
+                "biology",
+                "covid-19"
             ]
         },
         {
@@ -962,7 +1004,8 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
-                "biology"
+                "biology",
+                "covid-19"
             ]
         },
         {
@@ -980,7 +1023,8 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
-                "biology"
+                "biology",
+                "covid-19"
             ]
         },
         {
@@ -998,7 +1042,8 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
-                "biology"
+                "biology",
+                "covid-19"
             ]
         },
         {
@@ -1016,7 +1061,8 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
-                "biology"
+                "biology",
+                "covid-19"
             ]
         },
         {
@@ -1034,7 +1080,8 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
-                "biology"
+                "biology",
+                "covid-19"
             ]
         },
         {
@@ -1052,7 +1099,8 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
-                "biology"
+                "biology",
+                "covid-19"
             ]
         },
         {
@@ -1071,6 +1119,7 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
+                "covid-19",
                 "health"
             ]
         },
@@ -1090,6 +1139,7 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
+                "covid-19",
                 "health"
             ]
         },
@@ -1109,6 +1159,7 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
+                "covid-19",
                 "health"
             ]
         },
@@ -1127,6 +1178,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -1146,6 +1198,7 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
+                "covid-19",
                 "health"
             ]
         },
@@ -1164,6 +1217,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -1182,6 +1236,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -1200,6 +1255,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -1218,6 +1274,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -1236,6 +1293,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -1255,6 +1313,7 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
+                "covid-19",
                 "health"
             ]
         },
@@ -1273,6 +1332,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -1291,6 +1351,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -1309,7 +1370,9 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
-                "health"
+                "covid-19",
+                "health",
+                "marked"
             ]
         },
         {
@@ -1328,6 +1391,7 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
+                "covid-19",
                 "health"
             ]
         },
@@ -1347,6 +1411,7 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
+                "covid-19",
                 "health"
             ]
         },
@@ -1366,6 +1431,7 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
+                "covid-19",
                 "health"
             ]
         },
@@ -1385,6 +1451,7 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
+                "covid-19",
                 "health"
             ]
         },
@@ -1404,6 +1471,7 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
+                "covid-19",
                 "health"
             ]
         },
@@ -1422,6 +1490,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -1438,6 +1507,7 @@
             "newlyAdded": false,
             "note_model_uuid": "ac8b4554-6d1d-11ea-86e7-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -1456,6 +1526,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -1474,6 +1545,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -1492,6 +1564,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -1510,6 +1583,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -1528,6 +1602,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         }
