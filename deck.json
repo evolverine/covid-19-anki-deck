@@ -781,13 +781,15 @@
             "guid": "dB3EB1d=(u",
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
-            "tags": []
+            "tags": [
+                "covid-19"
+            ]
         },
         {
             "__type__": "Note",
             "data": "",
             "fields": [
-                "For how long did viable SARS-CoV-2 remain on plastic and stainless steel?",
+                "How long did viable SARS-CoV-2 remain on plastic and stainless steel?",
                 "72h",
                 "N van Doremalen, et al. Aerosol and surface stability of HCoV-19 (SARS-CoV-2) compared to SARS-CoV-1. The New England Journal of Medicine. DOI: 10.1056/NEJMc2004973 (2020).",
                 "CDC, Princeton, University of California study regarding stability of SARS-CoV-2 and SARS-CoV-1 on surfaces and in aerosols&nbsp;",
@@ -910,14 +912,15 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
-                "biology"
+                "biology",
+                "covid-19"
             ]
         },
         {
             "__type__": "Note",
             "data": "",
             "fields": [
-                "According to its genetic material, SARS-CoV-2 is classified as",
+                "According to (the type of) its genetic material, SARS-CoV-2 is classified as",
                 "An RNA virus",
                 "Masters, P. S. The molecular biology of coronaviruses. Advances in Virus Research 66, 193–292 (2006)",
                 "",
@@ -1440,7 +1443,7 @@
             "data": "",
             "fields": [
                 "What is unusual about the measles and tuberculosis vaccines that is relevant to the COVID-19 pandemic?",
-                "They also improve the immune system response in general (not just in response to the pathogens they target).",
+                "They also improve the immune system response in general (not only against the pathogens they target).",
                 "<div>Century-old tuberculosis vaccine could steel the immune system against the new coronavirus. Retrieved March 27, 2020, from https://coronawiki.org/page/century-old-tb-vaccine-could-steel-the-immune-system-against-the-new-coronavirus<br></div><div><br></div>Research. Retrieved March 27, 2020, from https://www.bandim.org/research",
                 "",
                 ""
