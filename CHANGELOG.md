@@ -12,10 +12,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [2.1.1] - 2020-03-30
+## [2.2.0] - 2020-03-30
 ### Added
 - CONTRIBUTORS file
 - Disclaimer section in README.md
+
+### Changed
+- the definition of tuberculosis to include the name of the bacteria causing it.
 
 ## [2.1.0] - 2020-03-29
 ### Changed

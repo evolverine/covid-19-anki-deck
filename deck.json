@@ -1,7 +1,7 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "480c69c8-71a3-11ea-8682-ac72899d63fe",
+    "crowdanki_uuid": "83a70502-7279-11ea-ab71-ac72899d63fe",
     "deck_config_uuid": "f0dd73fb-6576-11ea-923b-ac72899d63fe",
     "deck_configurations": [
         {
@@ -134,6 +134,7 @@
             ],
             "sortf": 0,
             "tags": [
+                "covid-19",
                 "health"
             ],
             "tmpls": [
@@ -1363,7 +1364,7 @@
             "data": "",
             "fields": [
                 "Tuberculosis",
-                "Bacterial infectious disease most often affecting the lungs",
+                "Bacterial infectious disease caused by Mycobacterium tuberculosis",
                 "Tuberculosis. Retrieved March 27, 2020, from https://www.who.int/en/news-room/fact-sheets/detail/tuberculosis",
                 "",
                 ""
