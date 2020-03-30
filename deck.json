@@ -1609,6 +1609,25 @@
                 "covid-19",
                 "health"
             ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Organ that tuberculosis most often affects",
+                "lungs",
+                "Tuberculosis. Retrieved March 27, 2020, from https://www.who.int/en/news-room/fact-sheets/detail/tuberculosis",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "BdobXdOC-4",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "covid-19",
+                "health"
+            ]
         }
     ]
 }
