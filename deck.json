@@ -1363,6 +1363,24 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "How did South Korea flatten the curve?(tentative March 2020)",
+                "<div>- Quick emergency response</div><div>- Testing broadly and quickly</div><div>- Tracing</div><div>- Public trust and cooperation</div>",
+                "Fisher, Max, and Choe Sang-hun. “How South Korea Flattened the Curve.”&nbsp;<i>The New York Times</i>, The New York Times, 23 Mar. 2020, www.nytimes.com/2020/03/23/world/asia/coronavirus-south-korea-flatten-curve.html.&nbsp;",
+                "\n<div><br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "d@6:wMopFe",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "How did South Korea flatten the curve?(tentative March 2020)<div><br></div><div><div>- {{c1::Quick emergency response}}</div><div>- {{c2::Testing broadly and quickly}}</div><div>- {{c3::Tracing}}</div><div>- {{c4::Public trust and cooperation}}</div></div>",
                 "Fisher, Max, and Choe Sang-hun. “How South Korea Flattened the Curve.”&nbsp;<i>The New York Times</i>, The New York Times, 23 Mar. 2020, www.nytimes.com/2020/03/23/world/asia/coronavirus-south-korea-flatten-curve.html.&nbsp;",
                 ""
