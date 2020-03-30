@@ -1,7 +1,7 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "01b9468c-702a-11ea-b067-ac72899d63fe",
+    "crowdanki_uuid": "83a70502-7279-11ea-ab71-ac72899d63fe",
     "deck_config_uuid": "f0dd73fb-6576-11ea-923b-ac72899d63fe",
     "deck_configurations": [
         {
@@ -134,6 +134,7 @@
             ],
             "sortf": 0,
             "tags": [
+                "covid-19",
                 "health"
             ],
             "tmpls": [
@@ -144,7 +145,7 @@
                     "did": null,
                     "name": "Front-Back",
                     "ord": 0,
-                    "qfmt": "<script language=\"javascript\">\nif(`{{Subdeck}}`.indexOf(\"COVID-19\") != -1)\n\tdocument.body.style.setProperty(\"--background-img\", \"var(--background-img-corona)\")\n</script>\n{{#Context}}Context: {{Context}}<br/><hr id=\"context\">{{/Context}}\n{{Front}}"
+                    "qfmt": "<script language=\"javascript\">\nif(`{{Tags}}`.split(\" \").indexOf(\"covid-19\") != -1)\n\tdocument.body.style.setProperty(\"--background-img\", \"var(--background-img-corona)\")\n</script>\n{{#Context}}Context: {{Context}}<br/><hr id=\"context\">{{/Context}}\n{{Front}}"
                 },
                 {
                     "afmt": "<div class=\"front\">{{FrontSide}}</div>\n<br/>\n<div class=\"back\">{{Front}}</div>\n\n{{#Source}}<hr id=\"source\"><div class=\"smallPrint\">Source: {{Source}}</div>{{/Source}}",
@@ -153,7 +154,7 @@
                     "did": null,
                     "name": "Back-Front",
                     "ord": 1,
-                    "qfmt": "{{#Include Reverse}}<script language=\"javascript\">\nif(`{{Subdeck}}`.indexOf(\"COVID-19\") != -1)\n\tdocument.body.style.setProperty(\"--background-img\", \"var(--background-img-corona)\")\n</script>\n{{#Context}}Context: {{Context}}<br/><hr id=\"context\">{{/Context}}\n{{Back}}{{/Include Reverse}}"
+                    "qfmt": "{{#Include Reverse}}<script language=\"javascript\">\nif(`{{Tags}}`.split(\" \").indexOf(\"covid-19\") != -1)\n\tdocument.body.style.setProperty(\"--background-img\", \"var(--background-img-corona)\")\n</script>\n{{#Context}}Context: {{Context}}<br/><hr id=\"context\">{{/Context}}\n{{Back}}{{/Include Reverse}}"
                 }
             ],
             "type": 0,
@@ -216,7 +217,7 @@
                     "did": null,
                     "name": "Cloze",
                     "ord": 0,
-                    "qfmt": "<script language=\"javascript\">\nif(`{{Subdeck}}`.indexOf(\"COVID-19\") != -1)\n\tdocument.body.style.setProperty(\"--background-img\", \"var(--background-img-corona)\")\n</script>\n{{cloze:Text}}"
+                    "qfmt": "<script language=\"javascript\">\nif(`{{Tags}}`.split(\" \").indexOf(\"covid-19\") != -1)\n\tdocument.body.style.setProperty(\"--background-img\", \"var(--background-img-corona)\")\n</script>\n{{cloze:Text}}"
                 }
             ],
             "type": 1,
@@ -240,6 +241,7 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
+                "covid-19",
                 "health"
             ]
         },
@@ -259,6 +261,7 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
+                "covid-19",
                 "health"
             ]
         },
@@ -278,6 +281,7 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
+                "covid-19",
                 "health"
             ]
         },
@@ -297,6 +301,7 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
+                "covid-19",
                 "health"
             ]
         },
@@ -316,6 +321,7 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
+                "covid-19",
                 "health"
             ]
         },
@@ -335,6 +341,7 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
+                "covid-19",
                 "health"
             ]
         },
@@ -354,6 +361,7 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
+                "covid-19",
                 "health"
             ]
         },
@@ -372,6 +380,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health",
                 "marked"
             ]
@@ -391,6 +400,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -409,6 +419,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -427,6 +438,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -445,6 +457,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -463,6 +476,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -481,6 +495,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -499,6 +514,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -517,6 +533,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -535,6 +552,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -553,6 +571,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -571,6 +590,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health",
                 "myths"
             ]
@@ -590,6 +610,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health",
                 "myths"
             ]
@@ -599,8 +620,8 @@
             "data": "",
             "fields": [
                 "Can pets be infected with COVID-19?",
-                "No evidence so far",
-                "Frequently Asked Questions | CDC. Retrieved March 16, 2020, from https://www.cdc.gov/coronavirus/2019-ncov/faq.html#animals",
+                "Possibly",
+                "<div>Coronavirus: Belgian woman infected her cat. Retrieved March 29, 2020, from https://www.brusselstimes.com/all-news/belgium-all-news/103003/coronavirus-belgian-woman-infected-her-cat/<br></div><div><br></div>Frequently Asked Questions | CDC. Retrieved March 16, 2020, from https://www.cdc.gov/coronavirus/2019-ncov/faq.html#animals",
                 "",
                 ""
             ],
@@ -609,6 +630,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -627,6 +649,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -645,6 +668,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -663,6 +687,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -681,7 +706,8 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
-                "biology"
+                "biology",
+                "covid-19"
             ]
         },
         {
@@ -700,6 +726,7 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
+                "covid-19",
                 "health"
             ]
         },
@@ -718,7 +745,9 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
-                "health"
+                "covid-19",
+                "health",
+                "marked"
             ]
         },
         {
@@ -735,7 +764,9 @@
             "guid": "u<6>A{>COH",
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
-            "tags": []
+            "tags": [
+                "covid-19"
+            ]
         },
         {
             "__type__": "Note",
@@ -751,13 +782,15 @@
             "guid": "dB3EB1d=(u",
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
-            "tags": []
+            "tags": [
+                "covid-19"
+            ]
         },
         {
             "__type__": "Note",
             "data": "",
             "fields": [
-                "For how long did viable SARS-CoV-2 remain on plastic and stainless steel?",
+                "How long did viable SARS-CoV-2 remain on plastic and stainless steel?",
                 "72h",
                 "N van Doremalen, et al. Aerosol and surface stability of HCoV-19 (SARS-CoV-2) compared to SARS-CoV-1. The New England Journal of Medicine. DOI: 10.1056/NEJMc2004973 (2020).",
                 "CDC, Princeton, University of California study regarding stability of SARS-CoV-2 and SARS-CoV-1 on surfaces and in aerosols&nbsp;",
@@ -767,7 +800,9 @@
             "guid": "B68%Oqscmx",
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
-            "tags": []
+            "tags": [
+                "covid-19"
+            ]
         },
         {
             "__type__": "Note",
@@ -783,7 +818,9 @@
             "guid": "yz)UY(4OR9",
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
-            "tags": []
+            "tags": [
+                "covid-19"
+            ]
         },
         {
             "__type__": "Note",
@@ -800,6 +837,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -818,6 +856,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -836,6 +875,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -854,6 +894,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -872,14 +913,15 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
-                "biology"
+                "biology",
+                "covid-19"
             ]
         },
         {
             "__type__": "Note",
             "data": "",
             "fields": [
-                "According to its genetic material, SARS-CoV-2 is classified as",
+                "According to (the type of) its genetic material, SARS-CoV-2 is classified as",
                 "An RNA virus",
                 "Masters, P. S. The molecular biology of coronaviruses. Advances in Virus Research 66, 193–292 (2006)",
                 "",
@@ -890,7 +932,8 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
-                "biology"
+                "biology",
+                "covid-19"
             ]
         },
         {
@@ -908,7 +951,8 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
-                "biology"
+                "biology",
+                "covid-19"
             ]
         },
         {
@@ -926,7 +970,8 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
-                "biology"
+                "biology",
+                "covid-19"
             ]
         },
         {
@@ -944,7 +989,8 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
-                "biology"
+                "biology",
+                "covid-19"
             ]
         },
         {
@@ -962,7 +1008,8 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
-                "biology"
+                "biology",
+                "covid-19"
             ]
         },
         {
@@ -980,7 +1027,8 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
-                "biology"
+                "biology",
+                "covid-19"
             ]
         },
         {
@@ -998,7 +1046,8 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
-                "biology"
+                "biology",
+                "covid-19"
             ]
         },
         {
@@ -1016,7 +1065,8 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
-                "biology"
+                "biology",
+                "covid-19"
             ]
         },
         {
@@ -1034,7 +1084,8 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
-                "biology"
+                "biology",
+                "covid-19"
             ]
         },
         {
@@ -1052,7 +1103,8 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
-                "biology"
+                "biology",
+                "covid-19"
             ]
         },
         {
@@ -1071,6 +1123,7 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
+                "covid-19",
                 "health"
             ]
         },
@@ -1090,6 +1143,7 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
+                "covid-19",
                 "health"
             ]
         },
@@ -1109,6 +1163,7 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
+                "covid-19",
                 "health"
             ]
         },
@@ -1127,6 +1182,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -1146,6 +1202,7 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
+                "covid-19",
                 "health"
             ]
         },
@@ -1164,6 +1221,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -1182,6 +1240,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -1189,8 +1248,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Which pre-existing condition seems to worsen prospects the most for those infected with SARS-CoV-2?",
-                "cardiovascular disease",
+                "Which pre-existing condition* seems to worsen prospects the most for those infected with SARS-CoV-2?",
+                "cardiovascular disease<br><br>* <span style=\"font-weight:normal\">class of conditions</span>",
                 "Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19) - World Health Organization, Feb. 28, 2020",
                 "comorbidities",
                 ""
@@ -1200,6 +1259,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -1218,6 +1278,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -1236,6 +1297,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -1255,6 +1317,7 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
+                "covid-19",
                 "health"
             ]
         },
@@ -1263,8 +1326,8 @@
             "data": "",
             "fields": [
                 "Can asymptomatic transmission of COVID-19 occur?",
-                "Very likely yes",
-                "<div>Mizumoto, K., Kagaya, K., Zarebski, \nA., &amp; Chowell, G. (2020). Estimating the asymptomatic proportion of \ncoronavirus disease 2019 (COVID-19) cases on board the Diamond Princess \ncruise ship, Yokohama, Japan, 2020. <i>Eurosurveillance</i>, <i>25</i>(10), 2000180.</div><div><br></div><div><div>Nishiura, H., Kobayashi, T., Miyama, \nT., Suzuki, A., Jung, S., Hayashi, K., ... &amp; Linton, N. M. (2020). \nEstimation of the asymptomatic ratio of novel coronavirus infections \n(COVID-19). <i>medRxiv</i>.</div></div>",
+                "Yes",
+                "<div>Coronavirus Cases Without Symptoms Spur Call for Wider Tests - Bloomberg. Retrieved March 29, 2020, from https://www.bloomberg.com/news/articles/2020-03-22/one-third-of-coronavirus-cases-may-show-no-symptom-scmp-reports<br></div><div><br></div><div>Mizumoto, K., Kagaya, K., Zarebski, \nA., &amp; Chowell, G. (2020). Estimating the asymptomatic proportion of \ncoronavirus disease 2019 (COVID-19) cases on board the Diamond Princess \ncruise ship, Yokohama, Japan, 2020. <i>Eurosurveillance</i>, <i>25</i>(10), 2000180.</div><div><br></div><div><div>Nishiura, H., Kobayashi, T., Miyama, \nT., Suzuki, A., Jung, S., Hayashi, K., ... &amp; Linton, N. M. (2020). \nEstimation of the asymptomatic ratio of novel coronavirus infections \n(COVID-19). <i>medRxiv</i>.</div></div>",
                 "",
                 ""
             ],
@@ -1273,6 +1336,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -1291,6 +1355,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -1315,7 +1380,7 @@
             "data": "",
             "fields": [
                 "Tuberculosis",
-                "Bacterial infectious disease most often affecting the lungs",
+                "Bacterial infectious disease caused by Mycobacterium tuberculosis",
                 "Tuberculosis. Retrieved March 27, 2020, from https://www.who.int/en/news-room/fact-sheets/detail/tuberculosis",
                 "",
                 ""
@@ -1325,6 +1390,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -1344,6 +1410,7 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
+                "covid-19",
                 "health"
             ]
         },
@@ -1363,6 +1430,7 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
+                "covid-19",
                 "health"
             ]
         },
@@ -1382,6 +1450,7 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
+                "covid-19",
                 "health"
             ]
         },
@@ -1390,7 +1459,7 @@
             "data": "",
             "fields": [
                 "What is unusual about the measles and tuberculosis vaccines that is relevant to the COVID-19 pandemic?",
-                "They also improve the immune system response in general (not just in response to the pathogens they target).",
+                "They also seem to improve the immune system response in general (not only against the pathogens they target).",
                 "<div>Century-old tuberculosis vaccine could steel the immune system against the new coronavirus. Retrieved March 27, 2020, from https://coronawiki.org/page/century-old-tb-vaccine-could-steel-the-immune-system-against-the-new-coronavirus<br></div><div><br></div>Research. Retrieved March 27, 2020, from https://www.bandim.org/research",
                 "",
                 ""
@@ -1401,6 +1470,7 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
+                "covid-19",
                 "health"
             ]
         },
@@ -1420,6 +1490,7 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
+                "covid-19",
                 "health"
             ]
         },
@@ -1438,6 +1509,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -1454,6 +1526,7 @@
             "newlyAdded": false,
             "note_model_uuid": "ac8b4554-6d1d-11ea-86e7-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -1472,6 +1545,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -1490,6 +1564,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -1497,8 +1572,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "When able to test only those who show symptoms we will not know how many people are infected due to",
-                "The incubation period (during which people who are infected do not show any symptoms)",
+                "Testing only those who show symptoms will not tell us how many people are infected <i>right now</i> due to (apart from asymptomatic cases)",
+                "the incubation period",
                 "<div>Battegay, M., Kuehl, R., Tschudin-Sutter, S., Hirsch, H. H., Widmer, A. F., &amp; Neher, R. A. (2020). 2019-novel Coronavirus (2019-nCoV): estimating the case fatality rate–a word of caution.&nbsp;<i>Swiss medical weekly</i>,&nbsp;<i>150</i>(0506).<br><div><br></div><div>Coronavirus: Why You Must Act Now - Tomas Pueyo - Medium. Retrieved March 19, 2020, from https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca</div></div>",
                 "Official numbers not reflecting the ongoing reality of the COVID-19 spread",
                 ""
@@ -1508,7 +1583,9 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
-                "health"
+                "covid-19",
+                "health",
+                "marked"
             ]
         },
         {
@@ -1526,6 +1603,7 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
                 "health"
             ]
         },
@@ -1533,7 +1611,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "The reason we are not able to test everyone, or even everyone with symptoms",
+                "The reason we are (currently, 2020.04) not able to test everyone, or even everyone with symptoms",
                 "Lack of sufficient testing equipment",
                 "Battegay, M., Kuehl, R., Tschudin-Sutter, S., Hirsch, H. H., Widmer, A. F., &amp; Neher, R. A. (2020). 2019-novel Coronavirus (2019-nCoV): estimating the case fatality rate–a word of caution.&nbsp;<i>Swiss medical weekly</i>,&nbsp;<i>150</i>(0506).<br><div><br></div><div>Coronavirus: Why You Must Act Now - Tomas Pueyo - Medium. Retrieved March 19, 2020, from https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca</div>",
                 "Official numbers not reflecting the ongoing reality of the COVID-19 spread",
@@ -1544,6 +1622,26 @@
             "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
+                "covid-19",
+                "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Organ that tuberculosis most often affects",
+                "lungs",
+                "Tuberculosis. Retrieved March 27, 2020, from https://www.who.int/en/news-room/fact-sheets/detail/tuberculosis",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "BdobXdOC-4",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "covid-19",
                 "health"
             ]
         }
