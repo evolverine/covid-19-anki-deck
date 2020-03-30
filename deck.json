@@ -1556,8 +1556,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "When able to test only those who show symptoms we will not know how many people are infected due to",
-                "The incubation period (during which people who are infected do not show any symptoms)",
+                "Testing only those who show symptoms will not tell us how many people are infected <i>right now</i> due to (apart from asymptomatic cases)",
+                "the incubation period",
                 "<div>Battegay, M., Kuehl, R., Tschudin-Sutter, S., Hirsch, H. H., Widmer, A. F., &amp; Neher, R. A. (2020). 2019-novel Coronavirus (2019-nCoV): estimating the case fatality rate–a word of caution.&nbsp;<i>Swiss medical weekly</i>,&nbsp;<i>150</i>(0506).<br><div><br></div><div>Coronavirus: Why You Must Act Now - Tomas Pueyo - Medium. Retrieved March 19, 2020, from https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca</div></div>",
                 "Official numbers not reflecting the ongoing reality of the COVID-19 spread",
                 ""
@@ -1568,7 +1568,8 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
-                "health"
+                "health",
+                "marked"
             ]
         },
         {
