@@ -30,3 +30,6 @@ Navigate to [this repository's issue list](https://github.com/evolverine/covid-1
 
 # Contributing
 See [the contributing guidelines](CONTRIBUTING.md) for how to join the effort to make this a great resource.
+
+# Disclaimer
+I'm definitely not claiming that the contents of this deck represent the latest or most accurate information regarding COVID-19. I'm doing my best, but I am not a professional, nor can I focus on this full time. Which is also why I very much appreciate contributions from those of you with better or more up-to-date information.

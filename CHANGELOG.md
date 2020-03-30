@@ -12,7 +12,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [2.1.0] - 2020-03-29 - bf4f622d1cafa96961caca81b94eafffb9f3fe18
+## [2.1.1] - 2020-03-30
+### Added
+- CONTRIBUTORS file
+- Disclaimer section in README.md
+
+## [2.1.0] - 2020-03-29
 ### Changed
 - changed the answer for the note about asymptomatic transmission to "yes", where it used to be "very likely yes"
 - changed an answer to 'possibly' (where it used to be 'no evidence so far') regarding human-to-animal transmission
