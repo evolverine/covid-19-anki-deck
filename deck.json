@@ -1375,8 +1375,7 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
-                "health",
-                "marked"
+                "health"
             ]
         },
         {
@@ -1444,7 +1443,7 @@
             "data": "",
             "fields": [
                 "What is unusual about the measles and tuberculosis vaccines that is relevant to the COVID-19 pandemic?",
-                "They also improve the immune system response in general (not only against the pathogens they target).",
+                "They also seem to improve the immune system response in general (not only against the pathogens they target).",
                 "<div>Century-old tuberculosis vaccine could steel the immune system against the new coronavirus. Retrieved March 27, 2020, from https://coronawiki.org/page/century-old-tb-vaccine-could-steel-the-immune-system-against-the-new-coronavirus<br></div><div><br></div>Research. Retrieved March 27, 2020, from https://www.bandim.org/research",
                 "",
                 ""

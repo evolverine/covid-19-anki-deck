@@ -18,7 +18,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Disclaimer section in README.md
 
 ### Changed
-- the definition of tuberculosis to include the name of the bacteria causing it.
+- the definition of tuberculosis to include the name of the bacteria causing it
+- made it clear that it's not yet certain that the tuberculosis and measles vaccines do indeed boost the immune system in general
 
 ## [2.1.0] - 2020-03-29
 ### Changed
