@@ -1,7 +1,7 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "83a70502-7279-11ea-ab71-ac72899d63fe",
+    "crowdanki_uuid": "f0efc10c-74dc-11ea-8cdc-ac72899d63fe",
     "deck_config_uuid": "f0dd73fb-6576-11ea-923b-ac72899d63fe",
     "deck_configurations": [
         {
@@ -134,8 +134,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "covid-19",
-                "health"
+                "covid-19"
             ],
             "tmpls": [
                 {
@@ -1344,7 +1343,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Information that we could know but don't, due to limited resources",
+                "Information that we don't know due to limited resources",
                 "Who is infected and who isn't",
                 "Battegay, M., Kuehl, R., Tschudin-Sutter, S., Hirsch, H. H., Widmer, A. F., &amp; Neher, R. A. (2020). 2019-novel Coronavirus (2019-nCoV): estimating the case fatality rate–a word of caution.&nbsp;<i>Swiss medical weekly</i>,&nbsp;<i>150</i>(0506).<br><div><br></div><div>Coronavirus: Why You Must Act Now - Tomas Pueyo - Medium. Retrieved March 19, 2020, from https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca<br></div>",
                 "Official numbers not reflecting the ongoing reality of the COVID-19 spread",
@@ -1661,6 +1660,43 @@
             "tags": [
                 "covid-19",
                 "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<b>Technical reasons</b> why even the information we do have might be inaccurate",
+                "<div>imperfect accuracy of testing procedures</div>",
+                "How does coronavirus testing work and will we have a home test soon? | New Scientist. Retrieved April 2, 2020, from https://www.newscientist.com/article/2238477-how-does-coronavirus-testing-work-and-will-we-have-a-home-test-soon/",
+                "Official numbers not reflecting the ongoing reality of the COVID-19 spread",
+                ""
+            ],
+            "flags": 0,
+            "guid": "k4SwrZh|/V",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "covid-19",
+                "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<b>Political reasons</b> why even the information we do have might be inaccurate",
+                "- different definitions between countries' statistics<div>- governments might have an interest in \"massaging\" the numbers</div>",
+                "China Concealed Coronavirus Outbreak Extent: U.S. Intelligence - Bloomberg. Retrieved April 2, 2020, from https://www.bloomberg.com/news/articles/2020-04-01/china-concealed-extent-of-virus-outbreak-u-s-intelligence-says<div><br></div><div>Medium - China&amp;#8217;s Coronavirus Numbers are Suspicious. Retrieved April 2, 2020, from https://medium.com/@sesrenaconference/chinas-coronavirus-numbers-are-suspicious-68d4e2b6be6d<br></div>",
+                "Official numbers not reflecting the ongoing reality of the COVID-19 spread",
+                ""
+            ],
+            "flags": 0,
+            "guid": "oGi&4UUNDa",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "covid-19"
             ]
         }
     ]
