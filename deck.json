@@ -1,7 +1,7 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "f0efc10c-74dc-11ea-8cdc-ac72899d63fe",
+    "crowdanki_uuid": "c6ea61b4-7bf3-11ea-98c1-ac72899d63fe",
     "deck_config_uuid": "f0dd73fb-6576-11ea-923b-ac72899d63fe",
     "deck_configurations": [
         {
@@ -1502,7 +1502,7 @@
             "fields": [
                 "Many COVID-19 cases that were previously considered {{c1::asymptomatic}} do indeed exhibit one notable symptom: {{c2::anosmia}}.",
                 "",
-                "<div>New Coronavirus Infection Symptoms Documented: Sudden Loss Of Sense Of Smell Or Taste. Retrieved March 27, 2020, from https://coronawiki.org/page/sudden-loss-of-sense-of-smell-or-taste-new-symptom-of-coronavirus</div><div><br></div><div>\"Advice for patients with new-onset anosmia during COVID-19 pandemic\", Claire Hopkins, Carl Philpott, Simon Gane, 22 March 2020<br></div>"
+                "<div>New Coronavirus Infection Symptoms Documented: Sudden Loss Of Sense Of Smell Or Taste. Retrieved March 27, 2020, from https://coronawiki.org/page/sudden-loss-of-sense-of-smell-or-taste-new-symptom-of-coronavirus</div><div><br></div><div>\"Advice for patients with new-onset anosmia during COVID-19 pandemic\", Claire Hopkins, Carl Philpott, Simon Gane, 22 March 2020<br></div><div><br></div><div>Q &amp; A on COVID-19. Retrieved April 10, 2020, from https://www.ecdc.europa.eu/en/covid-19/questions-answers<br></div>"
             ],
             "flags": 0,
             "guid": "rP]^D_`Sm;",
