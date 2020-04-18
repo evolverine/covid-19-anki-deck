@@ -1,7 +1,7 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "c6ea61b4-7bf3-11ea-98c1-ac72899d63fe",
+    "crowdanki_uuid": "4ba71a20-8156-11ea-a815-ac72899d63fe",
     "deck_config_uuid": "f0dd73fb-6576-11ea-923b-ac72899d63fe",
     "deck_configurations": [
         {
@@ -1211,7 +1211,7 @@
             "fields": [
                 "Which gender (of the two \"main\" ones) seems to have a higher mortality rate",
                 "Men",
-                "<a href=\"https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf\">Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19)</a>&nbsp;- World Health Organization, Feb. 28, 2020",
+                "<a href=\"https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf\">Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19)</a>&nbsp;- World Health Organization, Feb. 28, 2020<div>ICNARC report on COVID-19 in critical care, April 17, 2020, from&nbsp;<a href=\"https://www.icnarc.org/DataServices/Attachments/Download/c9b491af-ea80-ea11-9124-00505601089b\">https://www.icnarc.org/DataServices/Attachments/Download/c9b491af-ea80-ea11-9124-00505601089b</a><br></div>",
                 "",
                 ""
             ],
