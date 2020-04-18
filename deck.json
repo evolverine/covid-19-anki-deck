@@ -134,7 +134,8 @@
             ],
             "sortf": 0,
             "tags": [
-                "covid-19"
+                "marked",
+                "statistics"
             ],
             "tmpls": [
                 {
@@ -1705,7 +1706,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "\"Contact tracing\"",
+                "Contact tracing",
                 "Identifying those who came into contact within a recent timeframe&nbsp;with someone diagnosed.",
                 "<div>\"Public health management of persons having had contact with cases of COVID-19 in the EU\", ECDC Technical Report, Retrieved April 11, 2020<br></div><div><br></div><div>Contact Tracing: How It Works And How It's Helping Slow Coronavirus : Shots - Health News : NPR. Retrieved April 11, 2020, from https://www.npr.org/sections/health-shots/2020/03/10/814129534/how-the-painstaking-work-of-contact-tracing-can-slow-the-spread-of-an-outbreak<br></div>",
                 "",
