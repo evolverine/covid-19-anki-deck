@@ -1248,8 +1248,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Which pre-existing condition* seems to worsen prospects the most for those infected with SARS-CoV-2?",
-                "cardiovascular disease<br><br>* <span style=\"font-weight:normal\">class of conditions</span>",
+                "Which comorbidity seems to worsen prospects the most for those infected with SARS-CoV-2?",
+                "cardiovascular disease",
                 "Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19) - World Health Organization, Feb. 28, 2020",
                 "comorbidities",
                 ""
