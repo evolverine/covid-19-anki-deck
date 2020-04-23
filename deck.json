@@ -134,8 +134,8 @@
             ],
             "sortf": 0,
             "tags": [
-                "marked",
-                "statistics"
+                "covid-19",
+                "health"
             ],
             "tmpls": [
                 {
@@ -207,7 +207,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "health"
+                "chemistry"
             ],
             "tmpls": [
                 {
@@ -658,7 +658,7 @@
             "data": "",
             "fields": [
                 "Why is it hard to estimate the case fatality rate (CFR) for COVID-19?",
-                "<div>The numbers do not reflect reality</div><div></div>",
+                "The numbers do not reflect reality",
                 "<div>Battegay, M., Kuehl, R., \nTschudin-Sutter, S., Hirsch, H. H., Widmer, A. F., &amp; Neher, R. A. \n(2020). 2019-novel Coronavirus (2019-nCoV): estimating the case fatality\n rate–a word of caution. <i>Swiss medical weekly</i>, <i>150</i>(0506).</div>",
                 "",
                 ""
