@@ -12,6 +12,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [3.1.0] - 2020-04-29
+### Changed
+- design change: placed the context below the prompt and encased it in a dotted border.
+- design change: faded out the background so it doesn't interfere with the text legibility.
+
 ## [3.0.0] - 2020-04-29
 ### Added
 - more questions about sources of information inaccuracy
