@@ -1208,9 +1208,15 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+<<<<<<< HEAD
+                "Which gender (of the two \"main\" ones) seems to have a higher mortality rate",
+                "Men",
+                "<a href=\"https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf\">Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19)</a>&nbsp;- World Health Organization, Feb. 28, 2020<div>ICNARC report on COVID-19 in critical care, April 17, 2020, from&nbsp;<a href=\"https://www.icnarc.org/DataServices/Attachments/Download/c9b491af-ea80-ea11-9124-00505601089b\">https://www.icnarc.org/DataServices/Attachments/Download/c9b491af-ea80-ea11-9124-00505601089b</a><br></div>",
+=======
                 "Between males and females, who has a higher mortality rate due to COVID-19? ",
                 "Males",
                 "<a href=\"https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf\">Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19)</a>&nbsp;- World Health Organization, Feb. 28, 2020",
+>>>>>>> 0a714012d8516845d5d3b1e0462e451f5a5e4669
                 "",
                 ""
             ],
