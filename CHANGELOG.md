@@ -12,6 +12,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [3.0.0] - 2020-04-29
+### Added
+- more questions about sources of information inaccuracy
+- definitions of flattening the curve, contact tracing, dyspnea, sepsis, plasma, convalescence
+
+### Changed
+- the question about masks was replaced by a question about fomites.
+- updated some sources
+- reworded some notes for clarity
+
 ## [2.2.0] - 2020-03-30
 ### Added
 - CONTRIBUTORS file
