@@ -381,8 +381,7 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
-                "health",
-                "marked"
+                "health"
             ]
         },
         {
@@ -735,7 +734,7 @@
             "data": "",
             "fields": [
                 "Fomite",
-                "Object or substance able to transmit infectious agents to new hosts (e.g. doorknobs, clothes, etc.)",
+                "Object or substance able to transmit infectious agents to new hosts",
                 "Fomite - Wikiwand. Retrieved March 18, 2020, from https://www.wikiwand.com/en/Fomite",
                 "",
                 "✔️"
@@ -746,8 +745,7 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
-                "health",
-                "marked"
+                "health"
             ]
         },
         {
@@ -1556,7 +1554,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Testing only those who show symptoms will not tell us how many people are infected <i>right now</i> due to (apart from asymptomatic cases)",
+                "(Discarding asymptomatic cases,) even if we could test all who show symptoms will not know how many people are infected <i>right now</i> due to",
                 "the incubation period",
                 "<div>Battegay, M., Kuehl, R., Tschudin-Sutter, S., Hirsch, H. H., Widmer, A. F., &amp; Neher, R. A. (2020). 2019-novel Coronavirus (2019-nCoV): estimating the case fatality rate–a word of caution.&nbsp;<i>Swiss medical weekly</i>,&nbsp;<i>150</i>(0506).<br><div><br></div><div>Coronavirus: Why You Must Act Now - Tomas Pueyo - Medium. Retrieved March 19, 2020, from https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca</div></div>",
                 "Official numbers not reflecting the ongoing reality of the COVID-19 spread",
@@ -1568,8 +1566,7 @@
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
-                "health",
-                "marked"
+                "health"
             ]
         },
         {
@@ -1595,7 +1592,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "The reason we are (currently, 2020.04) not able to test everyone, or even everyone with symptoms",
+                "The main reason not everyone suspected* can be tested for COVID-19 in most countries<div><br></div><div></div><small>* either with (even mild) symptoms, or identified as high probability through contact tracing</small>",
                 "Lack of sufficient testing equipment",
                 "Battegay, M., Kuehl, R., Tschudin-Sutter, S., Hirsch, H. H., Widmer, A. F., &amp; Neher, R. A. (2020). 2019-novel Coronavirus (2019-nCoV): estimating the case fatality rate–a word of caution.&nbsp;<i>Swiss medical weekly</i>,&nbsp;<i>150</i>(0506).<br><div><br></div><div>Coronavirus: Why You Must Act Now - Tomas Pueyo - Medium. Retrieved March 19, 2020, from https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca</div>",
                 "Official numbers not reflecting the ongoing reality of the COVID-19 spread",
