@@ -1847,6 +1847,25 @@
                 "covid-19",
                 "health"
             ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Presymptomatic transmission",
+                "Transmission of a disease before symptoms occur",
+                "He, X., Lau, E.H.Y., Wu, P. <i>et al.</i> Temporal dynamics in viral shedding and transmissibility of COVID-19.\n                    <i>Nat Med</i>  (2020). https://doi.org/10.1038/s41591-020-0869-5",
+                "",
+                "✔️"
+            ],
+            "flags": 0,
+            "guid": "dW2HtX]<u=",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "covid-19",
+                "health"
+            ]
         }
     ]
 }
