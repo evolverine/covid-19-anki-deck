@@ -12,6 +12,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [3.2.0] - 2020-05.18
+### Changed
+- updated information about pets being at risk of infection, as we now have more conclusive evidence that it's definitely possible, and has happened. Nevertheless, it's still not clear how easily this happens
+- abbreviated "University of California" to "UC" to shorten the context for a few questions
+- removed the timer while reviewing, as a default setting
+- minor changes to the definition of sepsis, to simplify and clarify it
+- removed viruses as a common way to cause pneumonia, keeping bacteria as most frequent cause
+
+### Added
+- definitions of presymptomatic transmission, infectivity
+- question about infectivity peaking before or after symptom onset
+- question about number of days after symptom onset when infectiousness may start to decline significantly
+- question about how long the virus remained on stainless steel (separated from a question that previously contained both plastic and stainless steel)
+
+
 ## [3.1.0] - 2020-04-29
 ### Changed
 - design change: placed the context below the prompt and encased it in a dotted border.
