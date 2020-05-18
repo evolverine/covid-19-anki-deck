@@ -134,8 +134,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "covid-19",
-                "health"
+                "covid-19"
             ],
             "tmpls": [
                 {
@@ -329,9 +328,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Median incubation period of COVID-19",
+                "Median incubation period of COVID-19 (in days)",
                 "5-6 days",
-                "- Coronavirus disease 2019 - Wikiwand. Retrieved March 13, 2020, from https://www.wikiwand.com/en/Coronavirus_disease_2019<div><br></div><div>-&nbsp;Q&amp;A on coronaviruses (COVID-19). Retrieved March 13, 2020, from https://www.who.int/news-room/q-a-detail/q-a-coronaviruses</div>",
+                "<div>Q&amp;A on coronaviruses (COVID-19). Retrieved March 13, 2020, from https://www.who.int/news-room/q-a-detail/q-a-coronaviruses<br></div>",
                 "SARS-CoV-2 temporal dynamics",
                 ""
             ],
@@ -351,7 +350,7 @@
             "fields": [
                 "Main way of spreading SARS-CoV-2",
                 "through coughs and sneezes",
-                "- Coronavirus disease 2019 - Wikiwand. Retrieved March 13, 2020, from https://www.wikiwand.com/en/Coronavirus_disease_2019",
+                "Q&amp;A on coronaviruses (COVID-19). Retrieved March 13, 2020, from https://www.who.int/news-room/q-a-detail/q-a-coronaviruses",
                 "",
                 ""
             ],
@@ -409,7 +408,7 @@
             "fields": [
                 "Pneumonia",
                 "inflammation of the lung(s)",
-                "Pneumonia - Wikiwand. Retrieved March 13, 2020, from https://www.wikiwand.com/en/Pneumonia",
+                "Pneumonia | pathology | Britannica. Retrieved May 18, 2020, from https://www.britannica.com/science/pneumonia",
                 "",
                 "✔️"
             ],
@@ -427,8 +426,8 @@
             "data": "",
             "fields": [
                 "Most common cause of pneumonia",
-                "infection (with viruses or bacteria)",
-                "Pneumonia - Wikiwand. Retrieved March 13, 2020, from https://www.wikiwand.com/en/Pneumonia",
+                "infection with bacteria",
+                "Pneumonia | pathology | Britannica. Retrieved May 18, 2020, from https://www.britannica.com/science/pneumonia",
                 "",
                 ""
             ],
@@ -485,7 +484,7 @@
             "fields": [
                 "Usual mortality rate of the flu",
                 "around 0.1%",
-                "Influenza - Wikiwand. Retrieved March 13, 2020, from https://www.wikiwand.com/en/Influenza",
+                "Taubenberger JK, Morens DM (January 2006). \"1918 Influenza: the mother of all pandemics\". Emerging Infectious Diseases. 12 (1): 15–22. doi:10.3201/eid1201.050979. PMC 3291398. PMID 16494711.",
                 "",
                 ""
             ],
@@ -639,7 +638,7 @@
             "fields": [
                 "Case fatality rate",
                 "proportion of deaths in the diagnosed population",
-                "Case fatality rate - Wikiwand. Retrieved March 16, 2020, from https://www.wikiwand.com/en/Case_fatality_rate",
+                "case fatality rate | Definition, Example, Equation, &amp;#38; Facts | Britannica. Retrieved May 18, 2020, from https://www.britannica.com/science/case-fatality-rate",
                 "",
                 "✔️"
             ],
@@ -735,7 +734,7 @@
             "fields": [
                 "Fomite",
                 "Object or substance able to transmit infectious agents to new hosts",
-                "Fomite - Wikiwand. Retrieved March 18, 2020, from https://www.wikiwand.com/en/Fomite",
+                "Fomites, fomites, fomites! | Microblogology. Retrieved May 18, 2020, from https://microblogology.com/fomites-fomites-fomites/",
                 "",
                 "✔️"
             ],
