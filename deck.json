@@ -618,9 +618,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Can pets be infected with COVID-19?",
-                "Possibly",
-                "<div>Coronavirus: Belgian woman infected her cat. Retrieved March 29, 2020, from https://www.brusselstimes.com/all-news/belgium-all-news/103003/coronavirus-belgian-woman-infected-her-cat/<br></div><div><br></div>Frequently Asked Questions | CDC. Retrieved March 16, 2020, from https://www.cdc.gov/coronavirus/2019-ncov/faq.html#animals",
+                "Can pets be infected with SARS-CoV-2?",
+                "Yes",
+                "<div>Halfmann, Peter J., et al. “Transmission of SARS-CoV-2 in Domestic Cats.” <i>New England Journal of Medicine</i>, May 2020, p. NEJMc2013400. <i>DOI.org (Crossref)</i>, doi:10.1056/NEJMc2013400.<br></div><div><br></div>Frequently Asked Questions | CDC. Retrieved March 16, 2020, from https://www.cdc.gov/coronavirus/2019-ncov/faq.html#animals",
                 "",
                 ""
             ],
