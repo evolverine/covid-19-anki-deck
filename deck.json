@@ -154,7 +154,7 @@
                     "did": null,
                     "name": "Back-Front",
                     "ord": 1,
-                    "qfmt": "{{#Include Reverse}}<script language=\"javascript\">\nif(`{{Tags}}`.split(\" \").indexOf(\"covid-19\") != -1)\n\tdocument.body.style.setProperty(\"--background-img\", \"var(--background-img-corona)\")\n</script>\n{{#Context}}<div class=\"context\">Context: {{Context}}<br/></div>{{/Context}}\n{{Back}}{{/Include Reverse}}"
+                    "qfmt": "{{#Include Reverse}}<script language=\"javascript\">\nif(`{{Tags}}`.split(\" \").indexOf(\"covid-19\") != -1)\n\tdocument.body.style.setProperty(\"--background-img\", \"var(--background-img-corona)\")\n</script>\n{{Back}}\n{{#Context}}<div class=\"context\">Context: {{Context}}<br/></div>{{/Context}}\n{{/Include Reverse}}"
                 }
             ],
             "type": 0,
