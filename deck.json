@@ -1884,6 +1884,60 @@
             "tags": [
                 "covid-19"
             ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Infectivity",
+                "Proportion of those exposed to an infectious agent who become infected by it.",
+                "Definition of Infectivity. Retrieved May 18, 2020, from https://www.medicinenet.com/script/main/art.asp?articlekey=24094",
+                "",
+                "✔️"
+            ],
+            "flags": 0,
+            "guid": "4dUNdGAob",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "covid-19"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Does maximum infectivity likely occur before or after symptom onset?",
+                "before",
+                "He, X., Lau, E.H.Y., Wu, P. et al. Temporal dynamics in viral shedding and transmissibility of COVID-19. Nat Med (2020). https://doi.org/10.1038/s41591-020-0869-5",
+                "SARS-CoV-2 temporal dynamics",
+                ""
+            ],
+            "flags": 0,
+            "guid": "dZJ!`W#lO(",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "covid-19"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Number of days after symptom onset when infectiousness may significantly decline",
+                "8",
+                "He, X., Lau, E.H.Y., Wu, P. et al. Temporal dynamics in viral shedding and transmissibility of COVID-19. Nat Med (2020). https://doi.org/10.1038/s41591-020-0869-5",
+                "SARS-CoV-2 temporal dynamics",
+                ""
+            ],
+            "flags": 0,
+            "guid": "dly3~uB>9I",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "covid-19"
+            ]
         }
     ]
 }
