@@ -788,7 +788,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "How long did viable SARS-CoV-2 remain on plastic and stainless steel?",
+                "How long did viable SARS-CoV-2 remain on plastic?",
                 "72h",
                 "N van Doremalen, et al. Aerosol and surface stability of HCoV-19 (SARS-CoV-2) compared to SARS-CoV-1. The New England Journal of Medicine. DOI: 10.1056/NEJMc2004973 (2020).",
                 "CDC, Princeton, UC study regarding stability of SARS-CoV-2 and SARS-CoV-1 on surfaces and in aerosols",
@@ -1865,6 +1865,24 @@
             "tags": [
                 "covid-19",
                 "health"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How long did viable SARS-CoV-2 remain on stainless steel?",
+                "72h",
+                "N van Doremalen, et al. Aerosol and surface stability of HCoV-19 (SARS-CoV-2) compared to SARS-CoV-1. The New England Journal of Medicine. DOI: 10.1056/NEJMc2004973 (2020).",
+                "CDC, Princeton, UC study regarding stability of SARS-CoV-2 and SARS-CoV-1 on surfaces and in aerosols",
+                ""
+            ],
+            "flags": 0,
+            "guid": "i)q)k(|W@t",
+            "newlyAdded": false,
+            "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
+            "tags": [
+                "covid-19"
             ]
         }
     ]
