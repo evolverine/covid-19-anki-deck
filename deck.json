@@ -304,15 +304,14 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Incubation period of COVID-19",
+                "Incubation period (interval) of COVID-19",
                 "0-14 days",
-                "<div>- Guan, W. J., Ni, Z. Y., Hu, Y., Liang,\n W. H., Ou, C. Q., He, J. X., ... &amp; Du, B. (2020). Clinical \ncharacteristics of coronavirus disease 2019 in China. <i>New England Journal of Medicine</i>.<br></div><div><br></div><div>-&nbsp;Q&amp;A on coronaviruses (COVID-19). Retrieved March 13, 2020, from https://www.who.int/news-room/q-a-detail/q-a-coronaviruses</div>",
+                "<div>- Guan, W. J., Ni, Z. Y., Hu, Y., Liang,<br> W. H., Ou, C. Q., He, J. X., ... &amp; Du, B. (2020). Clinical <br>characteristics of coronavirus disease 2019 in China. <i>New England Journal of Medicine</i>.<br></div><div><br></div><div>-&nbsp;Q&amp;A on coronaviruses (COVID-19). Retrieved March 13, 2020, from https://www.who.int/news-room/q-a-detail/q-a-coronaviruses</div>",
                 "SARS-CoV-2 temporal dynamics",
                 ""
             ],
             "flags": 0,
             "guid": "HJSGsc{}ZL",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
@@ -332,7 +331,6 @@
             ],
             "flags": 0,
             "guid": "P1T1`D/$~4",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
@@ -352,7 +350,6 @@
             ],
             "flags": 0,
             "guid": "i*f-}mW]s]",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
@@ -372,7 +369,6 @@
             ],
             "flags": 0,
             "guid": "jeCg*a~d,/",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -391,7 +387,6 @@
             ],
             "flags": 0,
             "guid": "GJ8rGSuDPg",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -410,7 +405,6 @@
             ],
             "flags": 0,
             "guid": "zo@*0jsFKk",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -422,14 +416,13 @@
             "data": "",
             "fields": [
                 "Most common cause of pneumonia",
-                "infection with bacteria",
+                "bacterial infection",
                 "Pneumonia | pathology | Britannica. Retrieved May 18, 2020, from https://www.britannica.com/science/pneumonia",
                 "",
                 ""
             ],
             "flags": 0,
             "guid": "fh5HHAti;q",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -448,7 +441,6 @@
             ],
             "flags": 0,
             "guid": "tfp`Nibwhs",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -467,7 +459,6 @@
             ],
             "flags": 0,
             "guid": "sRYnc4LAH1",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -486,7 +477,6 @@
             ],
             "flags": 0,
             "guid": "GIP9NG(4?s",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -497,7 +487,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "The most likely time (month and year) of the first SARS-CoV-2 infection",
+                "The most likely time (month and year) of the first ever SARS-CoV-2 infection",
                 "November 2019",
                 "La Xina troba el primer pacient del coronavirus 2019: es va infectar un mes abans que no es pensava. Retrieved March 13, 2020, from https://www.vilaweb.cat/noticies/xina-coronavirus/",
                 "",
@@ -505,7 +495,6 @@
             ],
             "flags": 0,
             "guid": "srdu?z!I!x",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -524,7 +513,6 @@
             ],
             "flags": 0,
             "guid": "d_^;oT2xp5",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -543,7 +531,6 @@
             ],
             "flags": 0,
             "guid": "T0Mm7",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -562,7 +549,6 @@
             ],
             "flags": 0,
             "guid": "cuvrQ",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -581,7 +567,6 @@
             ],
             "flags": 0,
             "guid": "p|hwJJjD5r",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -601,7 +586,6 @@
             ],
             "flags": 0,
             "guid": "%|X3epXCo",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -621,7 +605,6 @@
             ],
             "flags": 0,
             "guid": "kN?`R-!*C2",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -640,7 +623,6 @@
             ],
             "flags": 0,
             "guid": "i>6o.TDQ!-",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -652,14 +634,13 @@
             "data": "",
             "fields": [
                 "Why is it hard to estimate the case fatality rate (CFR) for COVID-19?",
-                "The numbers do not reflect reality",
-                "<div>Battegay, M., Kuehl, R., \nTschudin-Sutter, S., Hirsch, H. H., Widmer, A. F., &amp; Neher, R. A. \n(2020). 2019-novel Coronavirus (2019-nCoV): estimating the case fatality\n rate–a word of caution. <i>Swiss medical weekly</i>, <i>150</i>(0506).</div>",
+                "The official statistics do not reflect reality",
+                "<div>Battegay, M., Kuehl, R., <br>Tschudin-Sutter, S., Hirsch, H. H., Widmer, A. F., &amp; Neher, R. A. <br>(2020). 2019-novel Coronavirus (2019-nCoV): estimating the case fatality<br> rate–a word of caution. <i>Swiss medical weekly</i>, <i>150</i>(0506).</div>",
                 "",
                 ""
             ],
             "flags": 0,
             "guid": "A6O,FFa;M^",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -678,7 +659,6 @@
             ],
             "flags": 0,
             "guid": "E9,ec;uI4~",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -697,7 +677,6 @@
             ],
             "flags": 0,
             "guid": "q4ZKiXhPof",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
@@ -716,7 +695,6 @@
             ],
             "flags": 0,
             "guid": "w|i#mQ8mVs",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
@@ -736,7 +714,6 @@
             ],
             "flags": 0,
             "guid": "hy|,^$YyQ7",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -755,7 +732,6 @@
             ],
             "flags": 0,
             "guid": "u<6>A{>COH",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19"
@@ -773,7 +749,6 @@
             ],
             "flags": 0,
             "guid": "dB3EB1d=(u",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19"
@@ -791,7 +766,6 @@
             ],
             "flags": 0,
             "guid": "B68%Oqscmx",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19"
@@ -809,7 +783,6 @@
             ],
             "flags": 0,
             "guid": "yz)UY(4OR9",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19"
@@ -827,7 +800,6 @@
             ],
             "flags": 0,
             "guid": "y!-<{b]08l",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -846,7 +818,6 @@
             ],
             "flags": 0,
             "guid": "lE{[]x(abT",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -865,7 +836,6 @@
             ],
             "flags": 0,
             "guid": "NQKE-*qGgx",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -884,7 +854,6 @@
             ],
             "flags": 0,
             "guid": ".M-8XkA7(",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -903,7 +872,6 @@
             ],
             "flags": 0,
             "guid": "J,*_z.%Yr5",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
@@ -922,7 +890,6 @@
             ],
             "flags": 0,
             "guid": "DsUX-5@*9R",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
@@ -941,7 +908,6 @@
             ],
             "flags": 0,
             "guid": "C>=((pi&aK",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
@@ -960,7 +926,6 @@
             ],
             "flags": 0,
             "guid": "n&/sL[*Q$G",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
@@ -979,7 +944,6 @@
             ],
             "flags": 0,
             "guid": "Jkr?lnP[w>",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
@@ -998,7 +962,6 @@
             ],
             "flags": 0,
             "guid": "As*6?6r~Fp",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
@@ -1017,7 +980,6 @@
             ],
             "flags": 0,
             "guid": "Mneo_MBJsl",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
@@ -1036,7 +998,6 @@
             ],
             "flags": 0,
             "guid": "K~V5uz]y#J",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
@@ -1055,7 +1016,6 @@
             ],
             "flags": 0,
             "guid": "3OCQ#VUdS",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
@@ -1074,7 +1034,6 @@
             ],
             "flags": 0,
             "guid": "u*PW](2fKB",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
@@ -1093,7 +1052,6 @@
             ],
             "flags": 0,
             "guid": "q<l5gQS6ul",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
@@ -1112,7 +1070,6 @@
             ],
             "flags": 0,
             "guid": "Nxi[K!l]Bs",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
@@ -1132,7 +1089,6 @@
             ],
             "flags": 0,
             "guid": "l1z[sI&}4L",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
@@ -1152,7 +1108,6 @@
             ],
             "flags": 0,
             "guid": "bv9JNdO~u|",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
@@ -1172,7 +1127,6 @@
             ],
             "flags": 0,
             "guid": "fk|HE$whxl",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -1191,7 +1145,6 @@
             ],
             "flags": 0,
             "guid": "saxKrsX[wV",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
@@ -1211,7 +1164,6 @@
             ],
             "flags": 0,
             "guid": "mZsXp|KDE;",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -1230,7 +1182,6 @@
             ],
             "flags": 0,
             "guid": "o]CE<|uSB`",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -1249,7 +1200,6 @@
             ],
             "flags": 0,
             "guid": "H@?|6ntrJJ",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -1268,7 +1218,6 @@
             ],
             "flags": 0,
             "guid": "zO-m5@^x~=",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -1287,7 +1236,6 @@
             ],
             "flags": 0,
             "guid": "B($c;+c&6&",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -1306,7 +1254,6 @@
             ],
             "flags": 0,
             "guid": "c9c=A5d`&P",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
@@ -1326,7 +1273,6 @@
             ],
             "flags": 0,
             "guid": "t]KXRl]!3[",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -1345,7 +1291,6 @@
             ],
             "flags": 0,
             "guid": "Fz(!G;#8@C",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -1364,7 +1309,6 @@
             ],
             "flags": 0,
             "guid": "wpIY`9~iJ[",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -1383,7 +1327,6 @@
             ],
             "flags": 0,
             "guid": "EOWbvrTK{M",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
@@ -1403,7 +1346,6 @@
             ],
             "flags": 0,
             "guid": "bCU<(HiWR8",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
@@ -1423,7 +1365,6 @@
             ],
             "flags": 0,
             "guid": "I[h[fB,P`L",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
@@ -1443,7 +1384,6 @@
             ],
             "flags": 0,
             "guid": "v+.k;|B*wX",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
@@ -1463,7 +1403,6 @@
             ],
             "flags": 0,
             "guid": "h1tWT5CY[i",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
@@ -1483,7 +1422,6 @@
             ],
             "flags": 0,
             "guid": "Mz{D^|G5H=",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -1500,7 +1438,6 @@
             ],
             "flags": 0,
             "guid": "rP]^D_`Sm;",
-            "newlyAdded": false,
             "note_model_uuid": "ac8b4554-6d1d-11ea-86e7-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -1519,7 +1456,6 @@
             ],
             "flags": 0,
             "guid": "KH,c=Es&(W",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -1538,7 +1474,6 @@
             ],
             "flags": 0,
             "guid": "hR2fc?^Rxn",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -1557,7 +1492,6 @@
             ],
             "flags": 0,
             "guid": "Q@-_G}d>DM",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -1576,7 +1510,6 @@
             ],
             "flags": 0,
             "guid": "l1K|!ZeDv>",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -1595,7 +1528,6 @@
             ],
             "flags": 0,
             "guid": "n>7L2SWmNi",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -1614,7 +1546,6 @@
             ],
             "flags": 0,
             "guid": "BdobXdOC-4",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -1633,7 +1564,6 @@
             ],
             "flags": 0,
             "guid": "k4SwrZh|/V",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -1652,7 +1582,6 @@
             ],
             "flags": 0,
             "guid": "oGi&4UUNDa",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19"
@@ -1670,7 +1599,6 @@
             ],
             "flags": 0,
             "guid": "ul!n+Tor<q",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19"
@@ -1688,7 +1616,6 @@
             ],
             "flags": 0,
             "guid": "EW8m<g_k{f",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19"
@@ -1706,7 +1633,6 @@
             ],
             "flags": 0,
             "guid": "hU=/Sh3Ajh",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19"
@@ -1724,7 +1650,6 @@
             ],
             "flags": 0,
             "guid": "Hj&4R9j>m",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19"
@@ -1742,7 +1667,6 @@
             ],
             "flags": 0,
             "guid": "tvm~j3^rS|",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19"
@@ -1760,7 +1684,6 @@
             ],
             "flags": 0,
             "guid": "OI(%)W%n^P",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "biology",
@@ -1779,7 +1702,6 @@
             ],
             "flags": 0,
             "guid": "q7_Nm55lZ+",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -1798,7 +1720,6 @@
             ],
             "flags": 0,
             "guid": "fgc$us}d(@",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -1817,7 +1738,6 @@
             ],
             "flags": 0,
             "guid": "Nd=Q<Y`J&}",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -1836,7 +1756,6 @@
             ],
             "flags": 0,
             "guid": "NwzIez[!S-",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -1855,7 +1774,6 @@
             ],
             "flags": 0,
             "guid": "dW2HtX]<u=",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19",
@@ -1874,7 +1792,6 @@
             ],
             "flags": 0,
             "guid": "i)q)k(|W@t",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19"
@@ -1892,7 +1809,6 @@
             ],
             "flags": 0,
             "guid": "4dUNdGAob",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19"
@@ -1910,7 +1826,6 @@
             ],
             "flags": 0,
             "guid": "dZJ!`W#lO(",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19"
@@ -1928,7 +1843,6 @@
             ],
             "flags": 0,
             "guid": "dly3~uB>9I",
-            "newlyAdded": false,
             "note_model_uuid": "f0dd73fe-6576-11ea-923b-ac72899d63fe",
             "tags": [
                 "covid-19"
