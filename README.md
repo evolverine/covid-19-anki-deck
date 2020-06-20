@@ -9,7 +9,7 @@ If you want to quickly check out the content in a (more) readable way, head to [
 # How to use
 1. Install [Anki Desktop](https://apps.ankiweb.net/)
 2. Install [the CrowdAnki add-on](https://ankiweb.net/shared/info/1788670778) and restart Anki Desktop.
-3. From Anki Desktop `select File -> CrowdAnki: Import from Github`. Enter *evolverine/covid-19-anki-deck* in the dialog that appears and click `OK`. The COVID-19 deck should appear, and you can start studying it.
+3. From Anki Desktop `select File -> CrowdAnki: Import from git repository`. Enter *https://github.com/evolverine/covid-19-anki-deck* in the dialog that appears and click `OK`. The COVID-19 deck should appear, and you can start studying it.
 
 Note that the blue-viruses background image only appears if the card is part of a (sub)deck with "COVID-19" in its name (which is the default).
 
