@@ -1,2 +1,5 @@
-if(`{{Tags}}`.split(" ").indexOf("covid-19") != -1)
+let tags = `{{Tags}}`.split(" ")
+if(tags.indexOf("covid-19") != -1)
 	document.body.style.setProperty("--background-img", "var(--background-img-corona)")
+else if(tags.indexOf("experimentation-for-improvement") != -1)
+	document.body.style.setProperty("--background-img", "var(--background-img-experimentation)")

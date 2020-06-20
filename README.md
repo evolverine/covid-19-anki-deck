@@ -23,7 +23,7 @@ There are two ways: through git or through opening an issue on github.
 ## 1. Through `git`
 Some basic knowledge of `git` is necessary for this. (If you don't know what `git` is, best to use the second method, below.) 
 
-First, make any change to the deck you see fit. Then, from AnkiDesktop select File -> Export. In the dialog that appears select *CrowdAnki JSON representation (*directory)* in the "Export format" drop-down, and then the COVID-19 deck in the "Include" drop-down. Leave "Include media" and "Include tags" checked. Click on *Export...* and select the directory where you cloned this repository. Then...
+First, make sure you have [the repository](https://github.com/evolverine/covid-19-anki-deck) forked and cloned into a directory, and that you've fetched and merged the latest changes from upstream (ie. this repository). From Anki, make any change to the deck data that you see fit. Then, from Anki Desktop select File -> Export. In the dialog that appears select *CrowdAnki JSON representation (*directory)* in the "Export format" drop-down, and then the COVID-19 deck in the "Include" drop-down. Leave "Include media" and "Include tags" checked. Click on *Export...* and select the directory where you cloned this repository. Then view the diff in deck.json to make sure it's what you expect and ready to be published, and, finally, commit and push it.
 
 ## 2. Through github issues
 Navigate to [this repository's issue list](https://github.com/evolverine/covid-19-anki-deck/issues) and click the "New issue" button. In that issue describe as clearly as possible what you would like changed or added to the deck.
