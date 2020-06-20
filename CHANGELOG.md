@@ -12,7 +12,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [3.2.0] - 2020-05.18
+## [4.0.0] - 2020-06-20
+### Changed
+- minor readability improvements
+- the note types are updated to support another background for another tag
+
+## [3.2.0] - 2020-05-18
 ### Changed
 - updated information about pets being at risk of infection, as we now have more conclusive evidence that it's definitely possible, and has happened. Nevertheless, it's still not clear how easily this happens
 - abbreviated "University of California" to "UC" to shorten the context for a few questions
