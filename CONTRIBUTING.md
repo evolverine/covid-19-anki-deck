@@ -2,7 +2,7 @@
 
 When contributing to this repository, it's best to discuss the change you wish to make via [github issues](https://github.com/evolverine/covid-19-anki-deck/issues) before making a change.
 
-Please note we have a code of conduct, please follow it in all your interactions with the project.
+Please note we have a code of conduct (see below), please follow it in all your interactions with the project.
 
 # Dos and don'ts
 
@@ -12,7 +12,7 @@ Please note we have a code of conduct, please follow it in all your interactions
 * Read [the goals of this project](README.md#Goals), and see that the notes you add further them directly
 * Read through existing notes in case the notes you're adding overlap or duplicate existing information.
 * Source your information from reputable sources.
-* First define any new concepts (in their own, separate notes) introduced by your notes
+* First define any new concepts (in their own, separate notes) introduced by any new notes
 
 
 ## Don't
