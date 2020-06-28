@@ -2,7 +2,7 @@
 
 When contributing to this repository, it's best to discuss the change you wish to make via [github issues](https://github.com/evolverine/covid-19-anki-deck/issues) before making a change.
 
-Please note we have a code of conduct (see below), please follow it in all your interactions with the project.
+Please note we have a [code of conduct](CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
 
 # Dos and don'ts
 
